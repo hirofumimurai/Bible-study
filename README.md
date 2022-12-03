@@ -1,1 +1,1 @@
-# Binle-study
+# Bible-study
