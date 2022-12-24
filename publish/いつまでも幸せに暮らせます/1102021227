@@ -1,0 +1,967 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+    <title>イエスの死によって私たちは救われる &mdash; ものみの塔 オンライン・ライブラリー</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	        <meta name="description" content="エホバの証人の公式ウェブサイトです。エホバの証人が様々な言語で発行している出版物を調べることができます。"/>
+        <meta name="keywords" content="エホバの証人, エホバ, 証人, ものみの塔, ライブラリー, オンライン, 出版物"/>
+	    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+	
+    <link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120"
+          href="/icon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152"
+          href="/icon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180"
+          href="/icon/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
+    <link rel="mask-icon" href="/icon/safari-pinned-tab.svg" color="#799FCC">
+    <link rel="shortcut icon" href="/icon/favicon.ico">
+    <meta name="msapplication-config" content="/icon/browserconfig.xml">
+    <meta name="apple-mobile-web-app-title" content="WOL">
+    <meta name="application-name" content="WOL">
+    <meta name="theme-color" content="#799fcc">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="apple-mobile-web-app-capable" content="no"/>
+	<link rel="stylesheet" type="text/css" href="https://b.jw-cdn.org/code/media-player/v1.6.0/skins/light.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+0+974f270baf9554651558d525c4fb9b2bbaba7049.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+1+eb8a03e8208c2b519502e9f295a5cdb86ce59e18.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+2+465c866887961124442af21bb7f783d185e6b372.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+3+c6b72ff1988ccd26e5384d03fe3f4797a0efccb7.css"/>
+	
+	        <script>
+			var localizedNumbers = ["0","1"];
+			window.VIDEOJS_NO_DYNAMIC_STYLE = true;
+        </script>
+	
+	
+	<input id="insightApi" type="hidden" value="https://b.jw-cdn.org/apis/insight/events" />
+
+	<script src="/assets/js/+0+3b23965c032d57f4d3f2965f87b3740e2c650208.js"></script>
+
+	</head>
+<body class="showRuby cc-theme--light DynamicLayout">
+<style id="scalableui"></style>
+<script>
+    if (window.Cookies != null) {
+	    // Apply user preferred font size
+        // Doesn't apply to static pages, all of which don't scale text
+	    var fontScale = Cookies.get('fontScale');
+
+	    if (fontScale) {
+		    var scalableuiStyleContainer = document.getElementById('scalableui');
+		    var scalableuiStyleSheet = scalableuiStyleContainer.sheet;
+
+		    scalableuiStyleSheet.insertRule(
+			    '.scalableui{font-size:' + fontScale * 100 + '%;}',
+			    scalableuiStyleSheet.cssRules.length
+		    );
+	    }
+    }
+</script>
+<div id="wrapper" class="dropShadow50">
+	<input id="locale" type="hidden" value="ja" />
+<input id="tooltipContentErrorMessage" type="hidden" value="資料を開くにはここをクリックしてください。" />
+<input id="rsconf" type="hidden" value="r7" />
+<input id="lib" type="hidden" value="lp-j" />
+<input id="libLang" type="hidden" value="日本語" />
+<input id="libTitle" type="hidden" value="日本語出版物（1962-2023）" />
+<input id="libDir" type="hidden" value="ltr" />
+<input id="libLangSym" type="hidden" value="J" />
+<input id="libLangScript" type="hidden" value="JAPANESE" />
+<input id="libLangIsSignLanguage" type="hidden" value="" />
+<input id="libraryLocale" type="hidden" value="ja" />
+<input id="contentLocale" type="hidden" value="ja" />
+<input id="contentRsconf" type="hidden" value="r7" />
+<input id="contentLib" type="hidden" value="lp-j" />
+<input id="contentLibLang" type="hidden" value="日本語" />
+<input id="contentLibTitle" type="hidden" value="日本語出版物（1962-2023）" />
+<input id="rubyAvailable" type="hidden" value="true" />
+<input id="contentLibDir" type="hidden" value="ltr" />
+<input id="contentLibLangSym" type="hidden" value="J" />
+<input id="contentLibLangScript" type="hidden" value="JAPANESE" />
+<input id="contentLibLangIsSignLanguage" type="hidden" value="false" />
+<input id="siteCookieDomain" type="hidden" value="wol.jw.org" />
+<input id="audioMultiselect" type="hidden" value="" />
+<input id="site" type="hidden" value="unified" />
+
+    <div id="regionHeader" class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<div id="siteBanner">
+    <div class="title">
+        <a href="/ja/wol/h/r7/lp-j">
+            <span class="logo"><span class="icon"></span></span>
+            <div class="ellipsized label">
+                <span class="ellipsized titleBig">ものみの塔 オンライン・ライブラリー</span>
+                <div class="ellipsized titleLittle siteTitleLine1">ものみの塔</div>
+                <div class="ellipsized titleLittle siteTitleLine2">オンライン・ライブラリー</div>
+            </div>
+        </a>
+    </div>
+	        <div class="language">
+            <a class="chrome librarySelectionLink spriteLink"
+               data-lang="J" href="/ja/wol/li/r7/lp-j">
+                <span class="icon"></span>
+                <span class="label">日本語</span>
+            </a>
+        </div>
+	</div>
+		<div id="toolbarFrame">
+    <div id="standardSearch" class="searchControl">
+					<form class="searchForm" role="search" method="GET" action="/ja/wol/qt/r7/lp-j">
+	<div class="searchFieldContainer">
+	<input type="hidden" id="st" name="st" />
+	<input class="searchField"
+		       name="q"
+		       accept-charset="utf-8"
+		       type="text"
+		       title="検索演算子: * = 0文字以上; ? = 1文字; &quot;&nbsp;&quot; = 一連の語句; & = AND検索; | = OR検索; ! = NOT検索; () = グループ化"
+		       aria-label="検索する語句か聖句を入力"
+		       placeholder="語句を入力"
+		       autocomplete="off"
+		       autocapitalize="off"
+		       autocorrect="off"
+               autofocus="autofocus"
+		       spellcheck="false"
+		       maxlength="256"
+		       value=""/>
+        <span class="searchFieldCancel"><span class="icon"></span></span>
+			</div>
+	<div class="searchControlContainer">
+		<input type="hidden"
+		       name="p"
+		       value="par"/>
+        <input type="hidden"
+               name="r"
+               value="occ"/>
+        <input class="searchButton" type="submit" value="検索"/>
+	</div>
+	<div class="searchControlButtons">
+		<button class="searchIcon menuButton" type="button" aria-label="検索"><span class="icon"></span></button>
+		<button class="closeIcon menuButton" type="button" aria-label="キャンセル"><span class="icon"></span></button>
+	</div>
+		<div class="suggestions hidden"></div>
+</form>
+		    </div>
+    <div id="toolbarMenu">
+        <ul class="menu" role="menu">
+			                <li id="menuToolsPreferences" class="menuButton iconOnly menuRight" role="menuitem"
+                    aria-label="設定">
+                    <a href="/ja/wol/pref/r7/lp-j?url=%2Fja%2Fwol%2Fd%2Fr7%2Flp-j%2F1102021227"
+                       rel="nofollow"><span class="icon"></span>
+                    </a>
+                </li>
+	            					<li id="menuToolsShare" class="menuButton iconOnly menuRight"
+					    role="menuitem"
+					    aria-label="シェアする">
+						<a id="shareButton" class="shareButtonIcon hidden" href="#">
+							<span class="icon"></span>
+						</a>
+					</li>
+							        </ul>
+    </div>
+    <div id="menuHome" role="menuitem" class="showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+        <a href="/ja/wol/h/r7/lp-j" aria-label="ホーム">
+            <span class="icon"></span>
+        </a>
+    </div>
+    <div id="menuFrame">
+        <ul id="menuBar" class="menu" role="menubar">
+							                    <li id="menuBible" class="chrome menuButton showRuby ml-J ms-JAPANESE dir-ltr" role="menuitem"
+                        aria-label="聖書" lang="ja" data-lang="J" dir="ltr">
+                        <a href="/ja/wol/binav/r7/lp-j" role="menuitem"
+                            aria-label="聖書"><span class="icon"></span><span
+                                    class="label">聖書</span></a>
+                    </li>
+				
+                <li id="menuPublications" class="chrome menuButton showRuby ml-J ms-JAPANESE dir-ltr" role="menuitem"
+                    aria-label="出版物" lang="ja" data-lang="J" dir="ltr">
+                    <a href="/ja/wol/lv/r7/lp-j/0" role="menuitem" 
+                        aria-label="出版物"><span class="icon"></span>
+                            <span class="label">出版物</span></a>
+                </li>
+
+				                    <li id="menuToday" class="chrome menuButton showRuby ml-J ms-JAPANESE dir-ltr" role="menuitem"
+                        aria-label="集会" lang="ja" data-lang="J" dir="ltr">
+                        <a class="todayNav" href="/ja/wol/meetings/r7/lp-j" role="menuitem"
+                            aria-label="集会"><span class="icon"></span><span
+                                    class="label">集会</span></a>
+                    </li>
+								                    <li id="menuSynchronizeControls" class="hidden">
+                        <ul>
+                            <li id="menuSynchronize" class="chrome menuButton tbSync hidden" role="menuitem"
+                                aria-label="シンクロ">
+                                <a id="linkSynchronize" href="#" rel="nofollow">
+                                    <span class="icon"></span> <span class="label"></span> </a>
+                            </li>
+                            <li id="menuSynchronizeSwitch" class="chrome menuButton tbSync" role="menuitem">
+                                <a id="linkSynchronizeSwitch" href="#" rel="nofollow">
+                                    <span class="icon"></span> </a>
+                            </li>
+                        </ul>
+                    </li>
+				                <li id="menuSearchHitNext"
+                    class="chrome menuButton iconOnly menuRight hidden showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+                    <a href="#"><span class="icon"></span></a></li>
+			        </ul>
+    </div>
+</div>
+		<div id="publicationNavigation"
+     class="chrome">
+	<div class="secondaryNavToggle"><span class="icon"></span></div>
+
+	<div class="pubNavTitle">
+        <div class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<ul>
+            <li class="resultsNavigationSelected documentLocation navPublications"><a href="/ja/wol/publication/r7/lp-j/lff/21" class="spriteLink ellipsized"><span class="icon"></span>暮 レッスン27</a></li>
+			<li class="resultDocumentPubTitle ellipsized">
+				イエスの死によって私たちは救われる			</li>
+		</ul>
+        </div>
+	</div>
+
+			<div class="chrome forwardBackNavControls resultNavControls">
+			<ul>
+				<li class="resultNavLeft"><a class="resultsNavDocumentLink" href="/ja/wol/d/r7/lp-j/1102021226"><span class="icon"></span></a></li><li class="resultNavRight"><a class="resultsNavDocumentLink" href="/ja/wol/d/r7/lp-j/1102021228"><span class="icon"></span></a></li>			</ul>
+		</div>
+	
+	<div class="navPosition hidden showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<div class="scrollPositionDisplay"></div>
+	</div>
+</div>
+
+			            <div id="playerwrapper" class="hidden headerPosition"></div>
+	        </div>
+
+    <div id="regionMain" class="unified navLeft showRuby ml-J ms-JAPANESE dir-ltr hasSecondaryNav showSecondaryNav" lang="ja" data-lang="J" dir="ltr" >
+	                <div id="videoWrapperContainer" lang="ja" data-lang="J" dir="ltr">
+                <div id="videoWrapper"
+                     class="hidden headerPosition constrainedHeight hasSecondaryNav showSecondaryNav showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+                    <div class="topShadow"></div>
+                    <div class="videoNoticeContainer">
+                        <p class="noticeText noMarkerNotice">視聴できるビデオはありません。</p>
+                        <p class="noticeText videoErrorNotice">申し訳ありません，ビデオをロード中にエラーが発生しました。</p>
+                    </div>
+                    <div id="playerShared" class="uninitialized"></div>
+                </div>
+            </div>
+	                <div id="secondaryNavContent"
+         class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+        <div id="secondaryNav" role="navigation">
+			                <nav>
+                    <div id="resultNavigation"><div class="resultNavTitle">
+        <ul>
+            <li  class="resultsNavigationSelected  "><span><span class="navContent">イエスの死によって私たちは救われる</span></span></li><li  class="resultDocumentPubTitle  "><span><span class="navContent">いつまでも幸せに暮らせます 楽しく学べる聖書レッスン</span></span></li>        </ul>
+    </div></div>
+                </nav>
+						                <div id="documentNavigation" class="chrome">
+					                        <ul class="navigationTabs">
+                            <li class="active tabItem" data-related-content="subheadings">
+                                <div class="chrome showRuby ml-J ms-JAPANESE dir-ltr">
+									副見出し                                </div>
+                            </li>
+                            <li class="tabItem" data-related-content="similarMaterial">
+                                <div class="chrome showRuby ml-J ms-JAPANESE dir-ltr">
+									関連する記事                                </div>
+                            </li>
+                        </ul>
+					                    <div class="navigationContents">
+						                            <div id="subheadings" class="active tabContent" role="navigation">
+                                <nav>
+									            <ul class="documentNavigation noTooltips" role="navigation">
+                            <li class="subheading"><a href="/ja/wol/d/r7/lp-j/1102021227#p8">もっと調べよう</a></li>
+                            <li class="subheading"><a href="/ja/wol/d/r7/lp-j/1102021227#p34">まとめ</a></li>
+                            <li class="subheading"><a href="/ja/wol/d/r7/lp-j/1102021227#p44">見てみよう</a></li>
+                    </ul>
+                                    </nav>
+                            </div>
+                            <div id="similarMaterial" class="tabContent">
+								    <ul class="results linkCard">
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/1102015145" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <img     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-bhs
+            cat-bk
+    " 
+        data-pub-symbol="bhs"
+ src="/wol/publication/r7/lp-j/bhs/thumbnail"/>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    贖いは神からの最高の贈り物
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    聖書が教えていること
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/1102005135" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <img     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-bh
+            cat-bk
+    " 
+        data-pub-symbol="bh"
+ src="/wol/publication/r7/lp-j/bh/thumbnail"/>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    贖い ― 神からの最大の贈り物
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    聖書は実際に何を教えていますか
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/1999123" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <span     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-w99
+            cat-w
+    " 
+        data-pub-symbol="w99"
+ ></span>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    キリストの贖い ― 神の救いの道
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    エホバの王国を告げ知らせるものみの塔 1999
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/1982842" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <span     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-w83
+            cat-w
+    " 
+        data-pub-symbol="w83"
+ ></span>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    イエスの死はわたしたちにとってどんな意味がありますか
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    エホバの王国を告げ知らせるものみの塔 1983
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		    </ul>
+
+	        <div class="moreSimDocs">
+            <a class="spriteLinkRight"
+               href="/ja/wol/sim/r7/lp-j/1102021227">もっと見る<span class="icon"></span></a>
+        </div>
+	                            </div>
+						                    </div>
+                </div>
+			        </div>
+    </div>
+
+<div id="documentCitationInformation">
+    <div>いつまでも幸せに暮らせます 楽しく学べる聖書レッスン</div>
+    <div><strong>暮 レッスン27</strong></div>
+</div>
+
+<div id="content" class="content">
+	    <div class="articlePositioner" lang="ja" data-lang="J" dir="ltr">
+            <div id="banner" class="documentBanner showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+			        </div>
+        <article id="article" class="article document html5 pub- docId-1102021227 pub-lff pub- docClass-13 jwac showRuby ml-J ms-JAPANESE dir-ltr includeSecondaryNav" lang="ja" data-lang="J" dir="ltr"             role="article">
+			
+<div class="scalableui">
+	<header>
+<div id="f1" class="north_center">
+<figure>
+<img src="/ja/wol/mp/r7/lp-j/lff/2021/890" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/889" alt="レッスン27。イエスの遺体が杭から下ろされたところ。" width="1200" height="303" class="north_center" />
+</figure>
+</div>
+<p class="contextTtl" id="p1" data-pid="1"><span id="page111" class="pageNum" aria-hidden="true" data-no="111" data-before-text="111"></span><strong>レッスン27</strong></p>
+<h1 id="p2" data-pid="2"><strong>イエスの死によって私たちは救われる</strong></h1>
+</header>	<div class="clearfix alternatePresentation clickable noTooltips
+		">
+		<div class="thumbnail">
+			<img src="/ja/wol/mp/r7/lp-j/lff/2021/883" class="lightbox"
+				 data-alt-src="/ja/wol/mp/r7/lp-j/lff/2021/886"
+				 data-alt-type="svg"/>
+		</div>
+		<div class="title">印刷版</div>
+	</div>
+	<div class="clearfix alternatePresentation clickable noTooltips
+		hidden">
+		<div class="thumbnail">
+			<img src="/ja/wol/mp/r7/lp-j/lff/2021/884" class="lightbox"
+				 data-alt-src="/ja/wol/mp/r7/lp-j/lff/2021/887"
+				 data-alt-type="svg"/>
+		</div>
+		<div class="title">印刷版</div>
+	</div>
+	<div class="clearfix alternatePresentation clickable noTooltips
+		hidden">
+		<div class="thumbnail">
+			<img src="/ja/wol/mp/r7/lp-j/lff/2021/885" class="lightbox"
+				 data-alt-src="/ja/wol/mp/r7/lp-j/lff/2021/888"
+				 data-alt-type="svg"/>
+		</div>
+		<div class="title">印刷版</div>
+	</div>
+
+<div class="bodyTxt">
+<div id="tt4">
+<p id="p3" data-pid="3">アダムとエバが神に背いたために，私たちは罪を受け継ぎ，苦しんで死ぬことになりました。<a id="footnotesource1" data-fnid="1" class="fn" href="/ja/wol/fn/r7/lp-j/1102021227/0">a</a> しかし，希望はあります。エホバは自分の子イエス･キリストによって私たちが罪と死から救われるようにしてくれました。聖書によると，イエスは私たちを救うために，身代わりとして死にました。私たちを罪と死から解放するために，完全な人間としての自分の命を代価として差し出したのです。そのことは聖書の中で，贖いと言われています。（<a href="/ja/wol/bc/r7/lp-j/1102021227/0/0" data-bid="1-1" class="b">マタイ 20:28</a>を読む。）イエスは，地上で永遠に生きる権利を放棄することによって，私たちが永遠に生きられるようにしてくれました。また，自分とエホバがどれほど人間を愛しているかをはっきり示しました。このレッスンを学ぶと，イエスが死んでくれたことへの感謝が深まるでしょう。</p>
+<h3 class="du-color--red-500 du-fontSize--base du-margin-top--8" id="p4" data-pid="4"><strong>1. イエスの死から今どんな恩恵を受けられる？</strong></h3>
+<p id="p5" data-pid="5">私たちは罪を受け継いでいるので，エホバに喜ばれないことをたくさんしてしまいます。しかし，心から反省し，イエス･キリストを通してエホバに許しを求め，間違いを繰り返さないように一生懸命頑張るなら，エホバと親しい友達でいられます。（<a href="/ja/wol/bc/r7/lp-j/1102021227/1/0" data-bid="2-1" class="b">ヨハネ第一 2:1</a>）聖書にこう書かれています。<strong>「正しい方であるキリストは，正しくない人たちの罪のために一度限り死にました。皆さんを神に導くためです」。</strong>（<a href="/ja/wol/bc/r7/lp-j/1102021227/2/0" data-bid="3-1" class="b">ペテロ第一 3:18</a>）</p>
+<h3 class="du-color--red-500 du-fontSize--base du-margin-top--8" id="p6" data-pid="6"><strong>2. イエスの死から将来どんな恩恵を受けられる？</strong></h3>
+<p id="p7" data-pid="7">エホバに遣わされたイエスが完全な人間としての命を差し出したことによって，<strong>「独り子に信仰を抱く人が皆，滅ぼされないで永遠の命を受けられるように」なりました。</strong>（<a href="/ja/wol/bc/r7/lp-j/1102021227/3/0" data-bid="4-1" class="b">ヨハネ 3:16</a>）イエスが贖いを支払ったので，エホバは間もなく，アダムが背いたために生じた悪い事柄を全てなくします。私たちは，イエスの贖いを信じるなら，パラダイスとなる地球でいつまでも幸せに暮らすことができます。（<a href="/ja/wol/bc/r7/lp-j/1102021227/4/0" data-bid="5-1" class="b">イザヤ 65:21-23</a>）</p>
+</div>
+<div id="tt7">
+<h2 class="du-color--coolGray-400 du-fontSize--basePlus1 du-letterSpacing--8 du-constrainStylesToTextWidth du-borderStyle-top--solid du-borderColor-top--coolGray-400 du-borderWidth-top--4 du-margin-top--12 du-padding-top--4" id="p8" data-pid="8"><span id="page112" class="pageNum" aria-hidden="true" data-no="112" data-before-text="112"></span><strong>もっと調べよう</strong></h2>
+<div id="tt9" class="du-fontSize--basePlus1">
+<p id="p9" data-pid="9">イエスが自分の命を差し出した理由や，私たちが受けられる恩恵について，さらに理解を深めましょう。</p>
+</div>
+<h3 class="du-color--red-500 du-margin-top--8" id="p10" data-pid="10"><strong>3. イエスの死のおかげで私たちは罪と死から自由になれる</strong></h3>
+<div id="tt87" class="du-margin-children-bottom-desktopOnly--0">
+<p id="p11" data-pid="11"><a href="https://www.jw.org/finder?lank=pub-lffv_271_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=271"><strong>動画を見て</strong></a><strong>，</strong>次のことを考えましょう。</p>
+</div>
+<div id="tt12" class="dc-columns-desktopOnly dc-columns-order-desktopOnly--reverse">
+<div id="tt13" class="dc-column-width--oneThird">
+<div id="tt14" class="dc-columns-mobileOnly du-bgColor--teal-50 du-margin-top-desktopOnly--8 du-padding--4">
+<div id="f2" class="dc-column-width--oneThird du-margin-inlineEnd-mobileOnly--4 du-margin-bottom-desktopOnly--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-lffv_271_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=271" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/892" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/891" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt15" class="dc-column-width--twoThirds du-fontSize--baseMinus1 du-margin-children-vertical--0">
+<p id="p12" data-pid="12"><a href="https://www.jw.org/finder?lank=pub-lffv_271_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=271"><strong>動画: 「イエスは何のために死にましたか（第1部）」（2:01）</strong></a></p>
+</div>
+</div>
+</div>
+<div id="tt17" class="dc-column-width--twoThirds du-margin-inlineEnd-desktopOnly--8">
+<ul><li><p id="p13" data-pid="13">  アダムは神に背いた時，どんな機会を失いましたか。</p>
+</li>
+</ul>
+<p id="p14" data-pid="14"><a href="/ja/wol/bc/r7/lp-j/1102021227/5/0" data-bid="6-1" class="b"><strong>ローマ 5章12節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p15" data-pid="15">  アダムが罪を犯したせいで，私たちはどんな影響を受けていますか。</p>
+</li>
+</ul>
+<p id="p16" data-pid="16"><a href="/ja/wol/bc/r7/lp-j/1102021227/6/0" data-bid="7-1" class="b"><strong>ヨハネ 3章16節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p17" data-pid="17">  エホバが自分の子を地上に遣わしたのはどうしてですか。</p>
+</li>
+</ul>
+</div>
+</div>
+<div id="f3" class="gen-flipbook pm-flipbook-gallery du-margin-top--8">
+<figure class="gen-flipbook pm-flipbook-gallery du-margin-top--8">
+<img src="/ja/wol/mp/r7/lp-j/lff/2021/894" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/894" alt="A. 1. 神に背いた後のアダム。2. 葬列の先頭で棺おけが運ばれている。" width="1200" height="734" class="gen-flipbook" />
+<img src="/ja/wol/mp/r7/lp-j/lff/2021/895" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/895" alt="A. 神に背いた後のアダム。B. イエス･キリスト" width="1200" height="734" class="gen-flipbook" />
+<img src="/ja/wol/mp/r7/lp-j/lff/2021/896" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/896" alt="B. 1. イエス･キリスト。2. いろいろな時代の，人種や国籍や生い立ちが違う人たち" width="1200" height="734" class="gen-flipbook" />
+</figure>
+</div>
+<ol class="du-listStyleType--upperAlpha du-color--textSubdued du-fontSize--baseMinus1 du-margin-bottom--8"><li><p id="p18" data-pid="18">             完全な人間だったアダムは，神に背き，人類に罪と死を背負わせた。</p>
+</li>
+<li><p id="p19" data-pid="19">             完全な人間だったイエスは，神に従い，人類が完全になって永遠に生きられるようにした。</p>
+</li>
+</ol>
+<h3 class="du-color--red-500 du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--12 du-padding-top--8" id="p20" data-pid="20"><strong>4. イエスの死から全ての人が恩恵を受けられる</strong></h3>
+<div id="tt88" class="du-margin-children-bottom-desktopOnly--0">
+<p id="p21" data-pid="21"><a href="https://www.jw.org/finder?lank=pub-lffv_272_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=272"><strong>動画を見て</strong></a><strong>，</strong>次のことを考えましょう。</p>
+</div>
+<div id="tt31" class="dc-columns-desktopOnly dc-columns-order-desktopOnly--reverse">
+<div id="tt32" class="dc-column-width--oneThird">
+<div id="tt33" class="dc-columns-mobileOnly du-bgColor--teal-50 du-margin-top-desktopOnly--8 du-padding--4">
+<div id="f4" class="dc-column-width--oneThird du-margin-inlineEnd-mobileOnly--4 du-margin-bottom-desktopOnly--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-lffv_272_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=272" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/898" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/897" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt34" class="dc-column-width--twoThirds du-fontSize--baseMinus1 du-margin-children-vertical--0">
+<p id="p22" data-pid="22"><a href="https://www.jw.org/finder?lank=pub-lffv_272_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=272"><strong>動画: 「イエスは何のために死にましたか（第2部）」（2:00）</strong></a></p>
+</div>
+</div>
+</div>
+<div id="tt36" class="dc-column-width--twoThirds du-margin-inlineEnd-desktopOnly--8">
+<ul><li><p id="p23" data-pid="23">  1人の人の死によって全ての人が恩恵を受けられるのはどうしてですか。</p>
+</li>
+</ul>
+<p id="p24" data-pid="24"><a href="/ja/wol/bc/r7/lp-j/1102021227/7/0" data-bid="8-1" class="b"><strong>テモテ第一 2章5，6節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p25" data-pid="25">  完全な人間だったアダムは，人類に罪と死を背負わせました。イエスも完全な人間でした。イエスが「対応する贖い」になったと言えるのはどうしてですか。</p>
+</li>
+</ul>
+</div>
+</div>
+<h3 class="du-color--red-500 du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--12 du-padding-top--8" id="p26" data-pid="26"><span id="page113" class="pageNum" aria-hidden="true" data-no="113" data-before-text="113"></span><strong>5. 贖いはエホバからの贈り物</strong></h3>
+<p id="p27" data-pid="27">エホバの友達である人は，贖いを自分への贈り物と考えます。<a href="/ja/wol/bc/r7/lp-j/1102021227/8/0" data-bid="9-1" class="b"><strong>ガラテア 2章20節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p28" data-pid="28">  使徒パウロが贖いを自分への贈り物と考えていたことが，どんなところから分かりますか。</p>
+</li>
+</ul>
+<p id="p29" data-pid="29">アダムが罪を犯したので，アダムと子孫全ては死ぬことになりました。しかし，エホバは自分の子を遣わして死ぬようにさせることにより，あなたが永遠に生きられるようにしてくれました。</p>
+<p id="p30" data-pid="30">聖書の次の言葉を読みながら，エホバの気持ちを想像してみましょう。自分の子が苦しむのを見て，エホバはどう感じたと思いますか。<a href="/ja/wol/bc/r7/lp-j/1102021227/9/0" data-bid="10-1" class="b"><strong>ヨハネ 19章1-7，</strong></a><a href="/ja/wol/bc/r7/lp-j/1102021227/9/1" data-bid="10-2" class="b"><strong>16-18節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p31" data-pid="31">  エホバとイエスがあなたのためにしてくれたことを考えると，どういう気持ちになりますか。</p>
+</li>
+</ul>
+<div id="tt46" class="dc-bleedToArticleEdge dc-paddingToContentEdge du-bgColor--gray-50 du-margin-top--12 du-padding-vertical--4">
+<p id="p32" data-pid="32"><strong>こう聞かれたら:</strong> 「1人の人が全ての人のために死ぬってどういうこと？」</p>
+<ul><li><p id="p33" data-pid="33">  どう答えますか。</p>
+</li>
+</ul>
+</div>
+</div>
+<div id="tt49">
+<h2 class="du-color--red-500 du-fontSize--basePlus1 du-margin-top--12" id="p34" data-pid="34"><span id="page114" class="pageNum" aria-hidden="true" data-no="114" data-before-text="114"></span><strong>まとめ</strong></h2>
+<p id="p35" data-pid="35">イエスが死んでくれたおかげで，私たちはエホバに罪を許してもらうことができ，いつまでも幸せに暮らせる見込みがある。</p>
+<h3 class="du-color--coolGray-500 du-fontSize--basePlus1 du-margin-top--8" id="p36" data-pid="36"><strong>復習</strong></h3>
+<ul><li><p id="p37" data-pid="37">  イエスが死んだのは何のためですか。</p>
+</li>
+<li><p id="p38" data-pid="38">  イエスの完全な人間としての命は，どういう意味で「対応する贖い」でしたか。</p>
+</li>
+<li><p id="p39" data-pid="39">  イエスが死んでくれたおかげで，どんな恩恵を受けられますか。</p>
+</li>
+</ul>
+<div class="gen-field du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--12 du-padding--4 du-padding-desktopOnly--8" id="p40" data-pid="40">
+<label for="tt58" id="tt57">レッスンが終わった日: </label>
+<input type="text" id="tt58" name="text-1"/>
+</div>
+<div id="tt60" class="du-bgColor--warmGray-50 du-padding--4 du-padding-desktopOnly--8">
+<fieldset>
+<legend id="p41" data-pid="41" class="du-color--coolGray-500 du-fontSize--basePlus2"><strong>次のステップ</strong></legend>
+<div class="gen-field" id="p42" data-pid="42">
+<input type="checkbox" id="tt64" class="du-borderStyle--none" name="goal-checkbox-1"/>
+<label for="tt64" id="tt66">祈る時に，エホバが自分の子を贈り物として与えてくれたことに感謝する。</label>
+</div>
+<div class="gen-field" id="p43" data-pid="43">
+<input type="checkbox" id="tt68" class="du-borderStyle--none" name="goal-checkbox-2"/>
+<label for="tt68" id="tt70">ほかにできること: </label>
+<div class="gen-field">
+<label for="tt73" id="tt71" class="dc-screenReaderText">別の目標</label>
+<textarea id="tt73" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
+</div>
+</fieldset>
+</div>
+<div id="tt75" class="du-bgColor--gray-50 du-margin-top--12 du-padding--4 du-padding-desktopOnly--8">
+<h3 class="du-color--coolGray-500 du-fontSize--basePlus2 du-letterSpacing--8 du-margin-top--0" id="p44" data-pid="44"><strong>見てみよう</strong></h3>
+<div id="tt77" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f5" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="/wol/rslink/r7/lp-j?lang=J&amp;docid=502016129&amp;pub=ijwbq"><img src="/ja/wol/mp/r7/lp-j/lff/2021/901" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/900" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt78" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p45" data-pid="45">イエスの完全な人間としての命が，贖いと言われているのはどうしてでしょうか。</p>
+<p id="p46" data-pid="46"><a href="/ja/wol/pc/r7/lp-j/1102021227/0/0"><strong>「イエスの死が『多くの人の身代金』と言えるのはなぜですか」</strong>（jw.orgの記事）</a></p>
+</div>
+</div>
+<div id="tt79" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f6" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="/wol/rslink/r7/lp-j?lang=J&amp;docid=502018118&amp;pub=ijwbq"><img src="/ja/wol/mp/r7/lp-j/lff/2021/903" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/902" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt80" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p47" data-pid="47">私たちは救われるために何をする必要があるでしょうか。</p>
+<p id="p48" data-pid="48"><a href="/ja/wol/pc/r7/lp-j/1102021227/1/0"><strong>「イエスは救世主ですか」</strong>（jw.orgの記事）</a></p>
+</div>
+</div>
+<div id="tt81" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f7" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="/wol/rslink/r7/lp-j?lang=J&amp;docid=2013330&amp;pub=w13&amp;issuesymbol=wp13&amp;issuedate=20130501"><img src="/ja/wol/mp/r7/lp-j/lff/2021/905" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/904" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt82" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p49" data-pid="49">エホバは重大な罪も許してくれるのでしょうか。</p>
+<p id="p50" data-pid="50"><a href="/ja/wol/pc/r7/lp-j/1102021227/2/0"><strong>「聖書の質問に答える」</strong>（「ものみの塔」2013年5月1日号）</a></p>
+</div>
+</div>
+<div id="tt83" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f8" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="/wol/rslink/r7/lp-j?lang=J&amp;docid=2015361&amp;pub=w15&amp;issuedate=20150515"><img src="/ja/wol/mp/r7/lp-j/lff/2021/907" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/906" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt84" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p51" data-pid="51">ある男性はつらい記憶に苦しめられていましたが，キリストの贖いについて学んで力づけられました。</p>
+<p id="p52" data-pid="52"><a href="/ja/wol/pc/r7/lp-j/1102021227/3/0"><strong>「最初の愛を忘れないことが力になりました」</strong>（「ものみの塔」2015年5月15日号）</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="groupFootnote"><div id="footnote1" data-fnid="1" class="fn-ref"><p id="p54" data-pid="54"><a href="#footnotesource1" class="fn-symbol">a</a> 聖書で言う「罪」とは，間違った行動だけでなく，私たちが受け継いできた欠陥のある状態を指しています。</p></div>
+</div>
+	<!-- Root element of lightbox -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+	<div id="questionContainer">
+		<ul></ul>
+	</div>
+
+	<div id="galleryModalContainer" class="underlay full fadeOut">
+    <div id="galleryModal">
+        <div class="header">
+            <div class="loading hidden"><span class="icon"></span></div>
+            <div class="galleryHeaderButtons">
+                <div class="galleryPlayCaption">
+                    <div class="galleryBtn playPauseBtn hidden"><span class="icon"></span></div>
+                </div>
+                
+                <div class="galleryBtn galleryClose">
+                    <div class="closeBtn"><span class="icon"></span></div>
+                </div>
+            </div>
+        </div>
+        <div class="contents">
+			
+            <div class="gallery">
+                <div class="galleryWrapper">
+                    <div class="navWrapper">
+                        <div class="itemContainer"></div>
+                    </div>
+                    <div class="carouselContainer noTooltips">
+						                    </div>
+                </div>
+            </div>
+
+                    </div>
+    </div>
+</div>
+</div>
+
+<input type="hidden" id="bibleDocumentNavigationChapterManyVerseFormat" value="{BibleBookName} {BibleChapter}:{StartingBibleVerse}-{EndingBibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationChapterVerseFormat" value="{BibleBookName} {BibleChapter}:{BibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationChapterVerseRangeFormat" value="{BibleBookName} {StartingBibleChapter}:{StartingBibleVerse}-{EndingBibleChapter}:{EndingBibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationSingleChapterManyVerseFormat" value="{BibleBookName} {StartingBibleVerse}-{EndingBibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationSingleChapterSingleVerseFormat" value="{BibleBookName} {BibleVerse}"/>
+<input type="hidden" id="documentNavigationMultiplePagesPositionFormat" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン p. {StartingPageNumber}-{EndingPageNumber}"/>
+<input type="hidden" id="documentNavigationSinglePagePositionFormat" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン p. {PageNumber}"/>
+<input type="hidden" id="documentDescription" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン"/>
+<input type="hidden" id="englishSym" value="lff"/>
+<input type="hidden" id="pubMediaServer" value="https://b.jw-cdn.org/apis/pub-media/GETPUBMEDIALINKS"/>
+<input type="hidden" id="audioPubSym" value="lff"/>
+<input type="hidden" id="chapNo" value="27"/>
+<input type="hidden" id="issue" value=""/>
+<input type="hidden" id="docId" value="1102021227"/>
+<input type="hidden" id="documentInBible" value=""/>
+<input type="hidden" id="hasRuby" value="true" />
+<input type="hidden" id="isRuby" value="false" />
+<input type="hidden" id="shareBaseUrl" value="https://www.jw.org/finder?wtlocale=J&docid=1102021227&srctype=wol&srcid=share"/>
+<input type="hidden" id="shareType" value="document"/>
+<input type="hidden" id="contentTitle" value="イエスの死によって私たちは救われる"/>
+<input type="hidden" id="parentTitle" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン"/>
+<input type="hidden" id="contentThumbnail" value="/ja/wol/d/r7/lp-j/1102021227/thumbnail"/>
+        </article>
+		</div></div>
+    </div>
+
+    <div id="regionFooter" class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		    <input id="returnToLibrary" type="hidden" value="{LibraryName}に戻る" />
+    <div id="userStatus" class="hidden" data-library-color="">
+        <div class="ellipsized currentLibrary">
+            <a class="chrome librarySelectionLink spriteLink" data-lang="J"
+               href="/ja/wol/li/r7/lp-j">
+                <span class="icon"></span>
+                <span class="label ellipsized showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">日本語出版物（1962-2023）</span>
+            </a>
+            <div id="cookieLibrary">
+
+            </div>
+        </div>
+        <div class="currentUser ellipsized">
+            <a id="userStatusLabel" class="statusLabel" href="#">
+                <span class="userName ellipsized"></span>
+            </a>
+            <div id="userControls" class="userControls hidden">
+                                <span id="headerLogout" class="hidden">
+        			<a class="statusItem userLogoutLink" href="#">ログアウト</a>                </span>
+            </div>
+        </div>
+        <div id="headerLogin" class="hidden">
+			<a class="statusButton userLoginLink" href="#">ログイン</a>        </div>
+    </div>
+		    <div id="contentFooterNavigation" role="navigation"
+         class=" showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+        <ul class="contentFooterIcons" role="menubar" class="chrome">
+            <li id="libraryTitle"
+                class="chrome"
+                role="menuitem"
+				lang="ja" data-lang="J" dir="ltr">
+                <a class="spriteLink"
+                   data-lang="J"
+                   href="/ja/wol/li/r7/lp-j">
+                    <span class="icon"></span>
+                    <span class="label">日本語</span>
+                </a>
+            </li>
+
+	        		        <li id="contentFooterShare" role="menuitem" aria-label="シェアする">
+			        <a id="shareButtonFooter" class="shareButtonFooterIcon spriteLink hidden" href="#">
+				        <span class="icon"></span>
+				        <span class="label">シェアする</span>
+			        </a>
+		        </li>
+	        
+            <li id="contentFooterPreferences" role="menuitem" aria-label="設定">
+                <a class="spriteLink" href="/ja/wol/pref/r7/lp-j?url=%2Fja%2Fwol%2Fd%2Fr7%2Flp-j%2F1102021227" rel="nofollow">
+                    <span class="icon"></span>
+                    <span class="label">設定</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+<div id="contentFooterLegal" class=" showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+    <ul class="contentFooterList" role="menubar">
+        <li class="showRuby ml-E ms-ROMAN dir-ltr" lang="en" data-lang="E" dir="ltr">
+			                <a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011511"
+                   target="_blank">Copyright</a>
+			            &copy;&nbsp;2022&nbsp;Watch Tower Bible and Tract Society of Pennsylvania        </li>
+		            <li>
+                <a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011511"
+                   target="_blank">利用規約</a>
+            </li>
+            <li>
+                <a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011512"
+                   target="_blank">プライバシーに関する方針</a>
+            </li>
+            <li>
+				<a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011512"
+				   id="privacySettingsButton"
+				   class="hidden"
+                   target="_blank">プライバシー設定</a>
+            </li>
+            <li id="jworg" role="menuitem" aria-label="jw.org">
+                <a id="jworgLogo" class="spriteLink" target="_blank" href="https://www.jw.org/finder?wtlocale=J&docid=1011200">
+                    <span class="icon"></span>
+                    <span class="label">JW.ORG</span>
+                </a>
+            </li>
+				            <li id="footerLogin" class="clickable hidden">
+				<a class="statusButton userLoginLink" href="#">ログイン</a>            </li>
+		                    </ul>
+    </div>
+    </div>
+
+    <div id="dialogContainer" class=" showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr"></div>
+    <div id="modalUnderlayContainer" class="underlay" tabindex="-1"></div>
+    <div id="underlayContainer" class="underlay" touch-action="none"></div>
+
+	<!-- share dialog -->
+	<input type="hidden" id="mobileNativeShare" value=""/>
+	<div class="jwac showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<div id="shareForm" class="hidden">
+			<div>
+				<div class="header chrome">
+					シェアする					<div class="closeBtn" aria-label="閉じる" onclick="app.modal.removeModals();">
+						<span class="icon"></span>
+					</div>
+				</div>
+				<form class="content">
+					<div class="shareFormWrapper">
+						<div>
+							<img class="sharePublicationImage" />
+						</div>
+						<div class="shareInfoContainer">
+							<div class="jwac showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+								<div class="shareContentParentTitle"></div>
+								<div class="shareContentTitle"></div>
+							</div>
+							<input id="shareLink" class="shareLink" type="text" readonly
+								   dir="ltr" />
+							<button type="button" class="grayButton small shareCopyButton"
+									aria-label="コピー"
+									onClick="app.utilities.copyToClipboard(document.getElementById('shareLink').value)">
+								<span class="icon"></span>
+							</button>
+							<div class="shareButtonContainer">
+								<button type="button" class="grayButton shareMailButton" onClick="app.share.sendEmail();">
+									<span class="icon"></span>
+									メールでシェアする								</button>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- end share dialog -->
+</div>
+
+<input type="hidden" id="newMeetingsPage" value="yes"/>
+
+
+<script src="https://b.jw-cdn.org/code/media-player/v1.6.0/js/media-player.min.js"></script>
+<script src="/assets/js/+1+0ca283f234d3853c38d3b7638a30f691656214ea.js"></script>
+<script src="/assets/js/+2+e486e3cb3baa7abba75a67d7440b6369a3f7c226.js"></script>
+
+</body>
+</html>

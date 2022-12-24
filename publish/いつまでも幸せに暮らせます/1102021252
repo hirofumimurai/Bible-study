@@ -1,0 +1,940 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+    <title>良い身だしなみは大切 &mdash; ものみの塔 オンライン・ライブラリー</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	        <meta name="description" content="エホバの証人の公式ウェブサイトです。エホバの証人が様々な言語で発行している出版物を調べることができます。"/>
+        <meta name="keywords" content="エホバの証人, エホバ, 証人, ものみの塔, ライブラリー, オンライン, 出版物"/>
+	    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+	
+    <link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120"
+          href="/icon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152"
+          href="/icon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180"
+          href="/icon/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
+    <link rel="mask-icon" href="/icon/safari-pinned-tab.svg" color="#799FCC">
+    <link rel="shortcut icon" href="/icon/favicon.ico">
+    <meta name="msapplication-config" content="/icon/browserconfig.xml">
+    <meta name="apple-mobile-web-app-title" content="WOL">
+    <meta name="application-name" content="WOL">
+    <meta name="theme-color" content="#799fcc">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="apple-mobile-web-app-capable" content="no"/>
+	<link rel="stylesheet" type="text/css" href="https://b.jw-cdn.org/code/media-player/v1.6.0/skins/light.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+0+974f270baf9554651558d525c4fb9b2bbaba7049.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+1+eb8a03e8208c2b519502e9f295a5cdb86ce59e18.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+2+465c866887961124442af21bb7f783d185e6b372.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+3+c6b72ff1988ccd26e5384d03fe3f4797a0efccb7.css"/>
+	
+	        <script>
+			var localizedNumbers = ["0","1"];
+			window.VIDEOJS_NO_DYNAMIC_STYLE = true;
+        </script>
+	
+	
+	<input id="insightApi" type="hidden" value="https://b.jw-cdn.org/apis/insight/events" />
+
+	<script src="/assets/js/+0+3b23965c032d57f4d3f2965f87b3740e2c650208.js"></script>
+
+	</head>
+<body class="showRuby cc-theme--light DynamicLayout">
+<style id="scalableui"></style>
+<script>
+    if (window.Cookies != null) {
+	    // Apply user preferred font size
+        // Doesn't apply to static pages, all of which don't scale text
+	    var fontScale = Cookies.get('fontScale');
+
+	    if (fontScale) {
+		    var scalableuiStyleContainer = document.getElementById('scalableui');
+		    var scalableuiStyleSheet = scalableuiStyleContainer.sheet;
+
+		    scalableuiStyleSheet.insertRule(
+			    '.scalableui{font-size:' + fontScale * 100 + '%;}',
+			    scalableuiStyleSheet.cssRules.length
+		    );
+	    }
+    }
+</script>
+<div id="wrapper" class="dropShadow50">
+	<input id="locale" type="hidden" value="ja" />
+<input id="tooltipContentErrorMessage" type="hidden" value="資料を開くにはここをクリックしてください。" />
+<input id="rsconf" type="hidden" value="r7" />
+<input id="lib" type="hidden" value="lp-j" />
+<input id="libLang" type="hidden" value="日本語" />
+<input id="libTitle" type="hidden" value="日本語出版物（1962-2023）" />
+<input id="libDir" type="hidden" value="ltr" />
+<input id="libLangSym" type="hidden" value="J" />
+<input id="libLangScript" type="hidden" value="JAPANESE" />
+<input id="libLangIsSignLanguage" type="hidden" value="" />
+<input id="libraryLocale" type="hidden" value="ja" />
+<input id="contentLocale" type="hidden" value="ja" />
+<input id="contentRsconf" type="hidden" value="r7" />
+<input id="contentLib" type="hidden" value="lp-j" />
+<input id="contentLibLang" type="hidden" value="日本語" />
+<input id="contentLibTitle" type="hidden" value="日本語出版物（1962-2023）" />
+<input id="rubyAvailable" type="hidden" value="true" />
+<input id="contentLibDir" type="hidden" value="ltr" />
+<input id="contentLibLangSym" type="hidden" value="J" />
+<input id="contentLibLangScript" type="hidden" value="JAPANESE" />
+<input id="contentLibLangIsSignLanguage" type="hidden" value="false" />
+<input id="siteCookieDomain" type="hidden" value="wol.jw.org" />
+<input id="audioMultiselect" type="hidden" value="" />
+<input id="site" type="hidden" value="unified" />
+
+    <div id="regionHeader" class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<div id="siteBanner">
+    <div class="title">
+        <a href="/ja/wol/h/r7/lp-j">
+            <span class="logo"><span class="icon"></span></span>
+            <div class="ellipsized label">
+                <span class="ellipsized titleBig">ものみの塔 オンライン・ライブラリー</span>
+                <div class="ellipsized titleLittle siteTitleLine1">ものみの塔</div>
+                <div class="ellipsized titleLittle siteTitleLine2">オンライン・ライブラリー</div>
+            </div>
+        </a>
+    </div>
+	        <div class="language">
+            <a class="chrome librarySelectionLink spriteLink"
+               data-lang="J" href="/ja/wol/li/r7/lp-j">
+                <span class="icon"></span>
+                <span class="label">日本語</span>
+            </a>
+        </div>
+	</div>
+		<div id="toolbarFrame">
+    <div id="standardSearch" class="searchControl">
+					<form class="searchForm" role="search" method="GET" action="/ja/wol/qt/r7/lp-j">
+	<div class="searchFieldContainer">
+	<input type="hidden" id="st" name="st" />
+	<input class="searchField"
+		       name="q"
+		       accept-charset="utf-8"
+		       type="text"
+		       title="検索演算子: * = 0文字以上; ? = 1文字; &quot;&nbsp;&quot; = 一連の語句; & = AND検索; | = OR検索; ! = NOT検索; () = グループ化"
+		       aria-label="検索する語句か聖句を入力"
+		       placeholder="語句を入力"
+		       autocomplete="off"
+		       autocapitalize="off"
+		       autocorrect="off"
+               autofocus="autofocus"
+		       spellcheck="false"
+		       maxlength="256"
+		       value=""/>
+        <span class="searchFieldCancel"><span class="icon"></span></span>
+			</div>
+	<div class="searchControlContainer">
+		<input type="hidden"
+		       name="p"
+		       value="par"/>
+        <input type="hidden"
+               name="r"
+               value="occ"/>
+        <input class="searchButton" type="submit" value="検索"/>
+	</div>
+	<div class="searchControlButtons">
+		<button class="searchIcon menuButton" type="button" aria-label="検索"><span class="icon"></span></button>
+		<button class="closeIcon menuButton" type="button" aria-label="キャンセル"><span class="icon"></span></button>
+	</div>
+		<div class="suggestions hidden"></div>
+</form>
+		    </div>
+    <div id="toolbarMenu">
+        <ul class="menu" role="menu">
+			                <li id="menuToolsPreferences" class="menuButton iconOnly menuRight" role="menuitem"
+                    aria-label="設定">
+                    <a href="/ja/wol/pref/r7/lp-j?url=%2Fja%2Fwol%2Fd%2Fr7%2Flp-j%2F1102021252"
+                       rel="nofollow"><span class="icon"></span>
+                    </a>
+                </li>
+	            					<li id="menuToolsShare" class="menuButton iconOnly menuRight"
+					    role="menuitem"
+					    aria-label="シェアする">
+						<a id="shareButton" class="shareButtonIcon hidden" href="#">
+							<span class="icon"></span>
+						</a>
+					</li>
+							        </ul>
+    </div>
+    <div id="menuHome" role="menuitem" class="showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+        <a href="/ja/wol/h/r7/lp-j" aria-label="ホーム">
+            <span class="icon"></span>
+        </a>
+    </div>
+    <div id="menuFrame">
+        <ul id="menuBar" class="menu" role="menubar">
+							                    <li id="menuBible" class="chrome menuButton showRuby ml-J ms-JAPANESE dir-ltr" role="menuitem"
+                        aria-label="聖書" lang="ja" data-lang="J" dir="ltr">
+                        <a href="/ja/wol/binav/r7/lp-j" role="menuitem"
+                            aria-label="聖書"><span class="icon"></span><span
+                                    class="label">聖書</span></a>
+                    </li>
+				
+                <li id="menuPublications" class="chrome menuButton showRuby ml-J ms-JAPANESE dir-ltr" role="menuitem"
+                    aria-label="出版物" lang="ja" data-lang="J" dir="ltr">
+                    <a href="/ja/wol/lv/r7/lp-j/0" role="menuitem" 
+                        aria-label="出版物"><span class="icon"></span>
+                            <span class="label">出版物</span></a>
+                </li>
+
+				                    <li id="menuToday" class="chrome menuButton showRuby ml-J ms-JAPANESE dir-ltr" role="menuitem"
+                        aria-label="集会" lang="ja" data-lang="J" dir="ltr">
+                        <a class="todayNav" href="/ja/wol/meetings/r7/lp-j" role="menuitem"
+                            aria-label="集会"><span class="icon"></span><span
+                                    class="label">集会</span></a>
+                    </li>
+								                    <li id="menuSynchronizeControls" class="hidden">
+                        <ul>
+                            <li id="menuSynchronize" class="chrome menuButton tbSync hidden" role="menuitem"
+                                aria-label="シンクロ">
+                                <a id="linkSynchronize" href="#" rel="nofollow">
+                                    <span class="icon"></span> <span class="label"></span> </a>
+                            </li>
+                            <li id="menuSynchronizeSwitch" class="chrome menuButton tbSync" role="menuitem">
+                                <a id="linkSynchronizeSwitch" href="#" rel="nofollow">
+                                    <span class="icon"></span> </a>
+                            </li>
+                        </ul>
+                    </li>
+				                <li id="menuSearchHitNext"
+                    class="chrome menuButton iconOnly menuRight hidden showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+                    <a href="#"><span class="icon"></span></a></li>
+			        </ul>
+    </div>
+</div>
+		<div id="publicationNavigation"
+     class="chrome">
+	<div class="secondaryNavToggle"><span class="icon"></span></div>
+
+	<div class="pubNavTitle">
+        <div class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<ul>
+            <li class="resultsNavigationSelected documentLocation navPublications"><a href="/ja/wol/publication/r7/lp-j/lff/68" class="spriteLink ellipsized"><span class="icon"></span>暮 レッスン52</a></li>
+			<li class="resultDocumentPubTitle ellipsized">
+				良い身だしなみは大切			</li>
+		</ul>
+        </div>
+	</div>
+
+			<div class="chrome forwardBackNavControls resultNavControls">
+			<ul>
+				<li class="resultNavLeft"><a class="resultsNavDocumentLink" href="/ja/wol/d/r7/lp-j/1102021251"><span class="icon"></span></a></li><li class="resultNavRight"><a class="resultsNavDocumentLink" href="/ja/wol/d/r7/lp-j/1102021253"><span class="icon"></span></a></li>			</ul>
+		</div>
+	
+	<div class="navPosition hidden showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<div class="scrollPositionDisplay"></div>
+	</div>
+</div>
+
+			            <div id="playerwrapper" class="hidden headerPosition"></div>
+	        </div>
+
+    <div id="regionMain" class="unified navLeft showRuby ml-J ms-JAPANESE dir-ltr hasSecondaryNav showSecondaryNav" lang="ja" data-lang="J" dir="ltr" >
+	                <div id="videoWrapperContainer" lang="ja" data-lang="J" dir="ltr">
+                <div id="videoWrapper"
+                     class="hidden headerPosition constrainedHeight hasSecondaryNav showSecondaryNav showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+                    <div class="topShadow"></div>
+                    <div class="videoNoticeContainer">
+                        <p class="noticeText noMarkerNotice">視聴できるビデオはありません。</p>
+                        <p class="noticeText videoErrorNotice">申し訳ありません，ビデオをロード中にエラーが発生しました。</p>
+                    </div>
+                    <div id="playerShared" class="uninitialized"></div>
+                </div>
+            </div>
+	                <div id="secondaryNavContent"
+         class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+        <div id="secondaryNav" role="navigation">
+			                <nav>
+                    <div id="resultNavigation"><div class="resultNavTitle">
+        <ul>
+            <li  class="resultsNavigationSelected  "><span><span class="navContent">良い身だしなみは大切</span></span></li><li  class="resultDocumentPubTitle  "><span><span class="navContent">いつまでも幸せに暮らせます 楽しく学べる聖書レッスン</span></span></li>        </ul>
+    </div></div>
+                </nav>
+						                <div id="documentNavigation" class="chrome">
+					                        <ul class="navigationTabs">
+                            <li class="active tabItem" data-related-content="subheadings">
+                                <div class="chrome showRuby ml-J ms-JAPANESE dir-ltr">
+									副見出し                                </div>
+                            </li>
+                            <li class="tabItem" data-related-content="similarMaterial">
+                                <div class="chrome showRuby ml-J ms-JAPANESE dir-ltr">
+									関連する記事                                </div>
+                            </li>
+                        </ul>
+					                    <div class="navigationContents">
+						                            <div id="subheadings" class="active tabContent" role="navigation">
+                                <nav>
+									            <ul class="documentNavigation noTooltips" role="navigation">
+                            <li class="subheading"><a href="/ja/wol/d/r7/lp-j/1102021252#p10">もっと調べよう</a></li>
+                            <li class="subheading"><a href="/ja/wol/d/r7/lp-j/1102021252#p30">まとめ</a></li>
+                            <li class="subheading"><a href="/ja/wol/d/r7/lp-j/1102021252#p40">見てみよう</a></li>
+                    </ul>
+                                    </nav>
+                            </div>
+                            <div id="similarMaterial" class="tabContent">
+								    <ul class="results linkCard">
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/1102012149" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <img     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-jl
+            cat-brch
+    " 
+        data-pub-symbol="jl"
+ src="/wol/publication/r7/lp-j/jl/thumbnail"/>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    集会できちんとした服装をするのはなぜですか
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    今の時代にだれがエホバのご意志を行なっていますか
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/2016684" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <img     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-w16
+            cat-w
+    " 
+        data-pub-symbol="w16"
+ src="/wol/publication/r7/lp-j/w16/2016/9/thumbnail"/>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    あなたの服装は神の栄光となっていますか
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    エホバの王国を告げ知らせるものみの塔（研究用）2016
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/202008083" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <span     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-km
+            cat-km
+    " 
+        data-pub-symbol="km"
+ ></span>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    質問箱
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    わたしたちの王国宣教 2008
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/1102001084" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <img     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-be
+            cat-bk
+    " 
+        data-pub-symbol="be"
+ src="/wol/publication/r7/lp-j/be/thumbnail"/>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    整った身なり
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    神権宣教学校の教育から益を得る
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		    </ul>
+
+	        <div class="moreSimDocs">
+            <a class="spriteLinkRight"
+               href="/ja/wol/sim/r7/lp-j/1102021252">もっと見る<span class="icon"></span></a>
+        </div>
+	                            </div>
+						                    </div>
+                </div>
+			        </div>
+    </div>
+
+<div id="documentCitationInformation">
+    <div>いつまでも幸せに暮らせます 楽しく学べる聖書レッスン</div>
+    <div><strong>暮 レッスン52</strong></div>
+</div>
+
+<div id="content" class="content">
+	    <div class="articlePositioner" lang="ja" data-lang="J" dir="ltr">
+            <div id="banner" class="documentBanner showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+			        </div>
+        <article id="article" class="article document html5 pub- docId-1102021252 pub-lff pub- docClass-13 jwac showRuby ml-J ms-JAPANESE dir-ltr includeSecondaryNav" lang="ja" data-lang="J" dir="ltr"             role="article">
+			
+<div class="scalableui">
+	<header>
+<div id="f1" class="north_center">
+<figure>
+<img src="/ja/wol/mp/r7/lp-j/lff/2021/1816" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1815" alt="レッスン52。女性がどの服を買うか決めている。" width="1200" height="303" class="north_center" />
+</figure>
+</div>
+<p class="contextTtl" id="p1" data-pid="1"><span id="page217" class="pageNum" aria-hidden="true" data-no="217" data-before-text="217"></span><strong>レッスン52</strong></p>
+<h1 id="p2" data-pid="2"><strong>良い身だしなみは大切</strong></h1>
+</header>	<div class="clearfix alternatePresentation clickable noTooltips
+		">
+		<div class="thumbnail">
+			<img src="/ja/wol/mp/r7/lp-j/lff/2021/1809" class="lightbox"
+				 data-alt-src="/ja/wol/mp/r7/lp-j/lff/2021/1812"
+				 data-alt-type="svg"/>
+		</div>
+		<div class="title">印刷版</div>
+	</div>
+	<div class="clearfix alternatePresentation clickable noTooltips
+		hidden">
+		<div class="thumbnail">
+			<img src="/ja/wol/mp/r7/lp-j/lff/2021/1810" class="lightbox"
+				 data-alt-src="/ja/wol/mp/r7/lp-j/lff/2021/1813"
+				 data-alt-type="svg"/>
+		</div>
+		<div class="title">印刷版</div>
+	</div>
+	<div class="clearfix alternatePresentation clickable noTooltips
+		hidden">
+		<div class="thumbnail">
+			<img src="/ja/wol/mp/r7/lp-j/lff/2021/1811" class="lightbox"
+				 data-alt-src="/ja/wol/mp/r7/lp-j/lff/2021/1814"
+				 data-alt-type="svg"/>
+		</div>
+		<div class="title">印刷版</div>
+	</div>
+
+<div class="bodyTxt">
+<div id="tt4">
+<p id="p3" data-pid="3">服装や髪形や化粧などの好みは，人によっていろいろです。聖書の幾つかの原則をよく考えるなら，自分の好みに合わせつつエホバに喜ばれる身だしなみができます。どんな原則が役に立つでしょうか。</p>
+<h3 class="du-color--purple-600 du-fontSize--base du-margin-top--8" id="p4" data-pid="4"><strong>1. どんな原則に沿って身だしなみを整えるといい？</strong></h3>
+<p id="p5" data-pid="5">私たちは，<strong>「慎みと健全な考え方が表れた，きちんとした服装」</strong>をし，<strong>「神への専心」</strong>がはっきり分かるような清潔感を意識したいと思います。（<a href="/ja/wol/bc/r7/lp-j/1102021252/0/0" data-bid="1-1" class="b">テモテ第一 2:9，10</a>）4つの原則について具体的に考えましょう。（1）「慎み」が表れた服装をする。セクシーな印象を与える服や，人目を引く奇抜なファッションは避けます。（2）「健全な考え方」が表れた服装をする。常に最新の流行に合わせるようなことはしません。（3）「きちんとした」服装をする。集会に出席している人たちを見れば分かるように，エホバの証人も好みはそれぞれですが，服装や髪形にいつも神への敬意が表れているようにします。（4）身だしなみに「神への専心」が表れるようにする。どんな時にも，私たちが真の神を崇拝していることが周囲の人に分かるようにします。（<a href="/ja/wol/bc/r7/lp-j/1102021252/1/0" data-bid="2-1" class="b">コリント第一 10:31</a>）</p>
+<h3 class="du-color--purple-600 du-fontSize--base du-margin-top--8" id="p6" data-pid="6"><strong>2. 仲間のクリスチャンがどう思うかを考えた方がいい？</strong></h3>
+<p id="p7" data-pid="7">好みの服を着ていいとはいえ，自分の身なりを見てほかの人たちがどう思うかを考えることは大切です。人を戸惑わせるような服装をしたいとは思いません。<strong>「隣人を喜ばせるようにし」，「その人のためになることをし，その人を力づける」</strong>ことを意識しましょう。（<a href="/ja/wol/bc/r7/lp-j/1102021252/2/0" data-bid="3-1" class="b">ローマ 15:1，2</a>を読む。）</p>
+<h3 class="du-color--purple-600 du-fontSize--base du-margin-top--8" id="p8" data-pid="8"><strong>3. エホバを崇拝していない人たちは，私たちの身だしなみを見てどう思う？</strong></h3>
+<p id="p9" data-pid="9">私たちはいつも良い身だしなみを心掛けますが，集会や伝道に行く時には特に気を配ります。私たちが伝えている重要なメッセージの価値を下げてしまうようなことはしたくありません。私たちを見る人たちに，「どんなことを伝えているのかもっと知りたい」と思ってもらいたいものです。そうすれば，<strong>「私たちの救い主である神の教えを飾る」</strong>ことになります。（<a href="/ja/wol/bc/r7/lp-j/1102021252/3/0" data-bid="4-1" class="b">テトス 2:10</a>）</p>
+</div>
+<div id="tt8">
+<h2 class="du-color--coolGray-400 du-fontSize--basePlus1 du-letterSpacing--8 du-constrainStylesToTextWidth du-borderStyle-top--solid du-borderColor-top--coolGray-400 du-borderWidth-top--4 du-margin-top--12 du-padding-top--4" id="p10" data-pid="10"><span id="page218" class="pageNum" aria-hidden="true" data-no="218" data-before-text="218"></span><strong>もっと調べよう</strong></h2>
+<div id="tt10" class="du-fontSize--basePlus1">
+<p id="p11" data-pid="11">クリスチャンにふさわしい身だしなみとはどういうものか，さらに考えましょう。</p>
+</div>
+<div id="f2" class="du-margin-top--8">
+<figure>
+<img src="/ja/wol/mp/r7/lp-j/lff/2021/1818" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1817" alt="2人の男性が裁判官の前に立っている。1人はスーツを着ていて，もう1人は破れたカジュアル過ぎる服を着てキャップをかぶっている。" width="1200" height="869" />
+<figcaption class="figcaption">
+<p id="p50" data-pid="50">身だしなみには，権威を持っている人への敬意があるかどうかが表れる。私たちの心の中をエホバは知っているとはいえ，身だしなみにもエホバへの敬意が表れているべき。</p>
+</figcaption>
+</figure>
+</div>
+<h3 class="du-color--purple-600 du-margin-top--8" id="p12" data-pid="12"><strong>4. 良い身だしなみはエホバへの敬意の表れ</strong></h3>
+<p id="p13" data-pid="13">私たちが良い身だしなみを心掛ける最も重要な理由は何でしょうか。<a href="/ja/wol/bc/r7/lp-j/1102021252/4/0" data-bid="5-1" class="b"><strong>詩編 47編2節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p14" data-pid="14">  私たちの身だしなみがエホバの評判に影響することを考えると，どうしたいと思いますか。</p>
+</li>
+<li><p id="p15" data-pid="15">  集会や伝道に行く時に身だしなみに気を配るのは大切だと思いますか。どうしてですか。</p>
+</li>
+</ul>
+<h3 class="du-color--purple-600 du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--12 du-padding-top--8" id="p16" data-pid="16"><span id="page219" class="pageNum" aria-hidden="true" data-no="219" data-before-text="219"></span><strong>5.</strong> <strong>どうすれば良い身だしなみができるか</strong></h3>
+<p id="p17" data-pid="17"><a href="https://www.jw.org/finder?lank=pub-jwb_201909_9_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwb&amp;issue=201909&amp;track=9"><strong>動画を見てください</strong></a><strong>。</strong></p>
+<div id="tt17" class="dc-columns du-bgColor--teal-50 du-margin-inlineEnd-desktopOnly--oneThird du-padding--4">
+<div id="f3" class="dc-column-width--oneThird du-margin-inlineEnd--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-jwb_201909_9_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwb&amp;issue=201909&amp;track=9" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1820" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1819" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt18" class="dc-column-width--twoThirds du-fontSize--baseMinus1 du-margin-children-vertical--0">
+<p id="p18" data-pid="18"><a href="https://www.jw.org/finder?lank=pub-jwb_201909_9_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwb&amp;issue=201909&amp;track=9"><strong>動画: 「全てのことを神の栄光のためにしましょう」（10:18）</strong></a></p>
+</div>
+</div>
+<p id="p19" data-pid="19">服の値段に関係なく，その時の状況に合った清潔できちんとした服を着ることが大切です。<a href="/ja/wol/bc/r7/lp-j/1102021252/5/0" data-bid="6-1" class="b"><strong>コリント第一 10章24節</strong></a><strong>と</strong><a href="/ja/wol/bc/r7/lp-j/1102021252/6/0" data-bid="7-1" class="b"><strong>テモテ第一 2章9，10節</strong></a><strong>を読んでください。</strong>それから，次のような服装を避けるべきなのはどうしてか考えましょう。</p>
+<ul><li><p id="p20" data-pid="20">  だらしがない服装や，その場に合わないカジュアル過ぎる服装</p>
+</li>
+<li><p id="p21" data-pid="21">  体にぴったりし過ぎている，肌の露出が多いなど，セクシーな印象を与える服装</p>
+</li>
+</ul>
+<p id="p22" data-pid="22">クリスチャンにモーセの律法を守る義務はありませんが，その律法からエホバの考えが分かります。<a href="/ja/wol/bc/r7/lp-j/1102021252/7/0" data-bid="8-1" class="b"><strong>申命記 22章5節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p23" data-pid="23">  男性が女性に見える格好をしたり，女性が男性に見える格好をしたりするのが良くないのはどうしてですか。</p>
+</li>
+</ul>
+<p id="p24" data-pid="24"><a href="/ja/wol/bc/r7/lp-j/1102021252/8/0" data-bid="9-1" class="b"><strong>コリント第一 10章32，33節</strong></a><strong>と</strong><a href="/ja/wol/bc/r7/lp-j/1102021252/9/0" data-bid="10-1" class="b"><strong>ヨハネ第一 2章15，16節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p25" data-pid="25">  地域の人たちや会衆の人たちが戸惑うような格好をすべきでないのはどうしてですか。</p>
+</li>
+<li><p id="p26" data-pid="26">  あなたの周りではどんな服装や髪形や化粧がはやっていますか。</p>
+</li>
+<li><p id="p27" data-pid="27">  そうしたものの中にはクリスチャンにふさわしくないものもあると思いますか。どうしてですか。</p>
+</li>
+</ul>
+<div id="f4" class="dc-bleedToArticleEdge du-margin-top--8">
+<figure>
+<figcaption class="figcaption dc-paddingToContentEdge">
+<p id="p52" data-pid="52">エホバに喜ばれる身だしなみはバラエティーに富んでいる。</p>
+</figcaption>
+<img src="/ja/wol/mp/r7/lp-j/lff/2021/1823" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1822" alt="人種や国籍や年齢がさまざまな男女が，クリスチャンにふさわしいいろいろな服装や髪形をしている。" width="1200" height="519" />
+</figure>
+</div>
+<div id="tt29" class="dc-bleedToArticleEdge dc-paddingToContentEdge du-bgColor--gray-50 du-padding-vertical--4">
+<p id="p28" data-pid="28"><strong>こう言う人もいる:</strong> 「何を着ようと本人の自由だと思う」。</p>
+<ul><li><p id="p29" data-pid="29">  あなたはどう思いますか。</p>
+</li>
+</ul>
+</div>
+</div>
+<div id="tt32">
+<h2 class="du-color--purple-600 du-fontSize--basePlus1 du-margin-top--12" id="p30" data-pid="30"><span id="page220" class="pageNum" aria-hidden="true" data-no="220" data-before-text="220"></span><strong>まとめ</strong></h2>
+<p id="p31" data-pid="31">良い身だしなみをするなら，エホバへの敬意やほかの人たちへの配慮を示すことになる。</p>
+<h3 class="du-color--coolGray-500 du-fontSize--basePlus1 du-margin-top--8" id="p32" data-pid="32"><strong>復習</strong></h3>
+<ul><li><p id="p33" data-pid="33">  私たちの身だしなみがエホバにとって重要なのはどうしてですか。</p>
+</li>
+<li><p id="p34" data-pid="34">  聖書のどんな原則に沿って身だしなみを整えるとよいですか。</p>
+</li>
+<li><p id="p35" data-pid="35">  私たちの身だしなみはエホバの評判にどう影響しますか。</p>
+</li>
+</ul>
+<div class="gen-field du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--12 du-padding--4 du-padding-desktopOnly--8" id="p36" data-pid="36">
+<label for="tt41" id="tt40">レッスンが終わった日: </label>
+<input type="text" id="tt41" name="text-1"/>
+</div>
+<div id="tt43" class="du-bgColor--warmGray-50 du-padding--4 du-padding-desktopOnly--8">
+<fieldset>
+<legend id="p37" data-pid="37" class="du-color--coolGray-500 du-fontSize--basePlus2"><strong>次のステップ</strong></legend>
+<div class="gen-field" id="p38" data-pid="38">
+<input type="checkbox" id="tt47" class="du-borderStyle--none" name="goal-checkbox-1"/>
+<label for="tt47" id="tt49">自分の身だしなみに改善した方がよいところがあるか考える。</label>
+</div>
+<div class="gen-field" id="p39" data-pid="39">
+<input type="checkbox" id="tt51" class="du-borderStyle--none" name="goal-checkbox-2"/>
+<label for="tt51" id="tt53">ほかにできること: </label>
+<div class="gen-field">
+<label for="tt56" id="tt54" class="dc-screenReaderText">別の目標</label>
+<textarea id="tt56" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
+</div>
+</fieldset>
+</div>
+<div id="tt58" class="du-bgColor--gray-50 du-margin-top--12 du-padding--4 du-padding-desktopOnly--8">
+<h3 class="du-color--coolGray-500 du-fontSize--basePlus2 du-letterSpacing--8 du-margin-top--0" id="p40" data-pid="40"><strong>見てみよう</strong></h3>
+<div id="tt60" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f5" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="/wol/rslink/r7/lp-j?lang=J&amp;docid=502015245&amp;pub=ijwyp"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1825" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1824" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt61" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p41" data-pid="41">自分の服装を見て他の人がどう思うかを考えてみましょう。</p>
+<p id="p42" data-pid="42"><a href="/ja/wol/pc/r7/lp-j/1102021252/0/0"><strong>「この服，どうかな？」</strong>（jw.orgの記事）</a></p>
+</div>
+</div>
+<div id="tt62" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f6" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="/wol/rslink/r7/lp-j?lang=J&amp;docid=502013252&amp;pub=ijwbq"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1827" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1826" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt63" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p43" data-pid="43">タトゥーを入れる前によく考えた方がよいのはどうしてでしょうか。</p>
+<p id="p44" data-pid="44"><a href="/ja/wol/pc/r7/lp-j/1102021252/1/0"><strong>「聖書はタトゥーについて何と述べていますか」</strong>（jw.orgの記事）</a></p>
+</div>
+</div>
+<div id="tt64" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f7" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="/wol/rslink/r7/lp-j?lang=J&amp;docid=2016684&amp;pub=w16&amp;issuesymbol=w16.09&amp;issuedate=201609&amp;issuenumber=9"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1829" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1828" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt65" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p45" data-pid="45">服装を決めるのに役立つ聖書の原則がほかにもあります。</p>
+<p id="p46" data-pid="46"><a href="/ja/wol/pc/r7/lp-j/1102021252/2/0"><strong>「あなたの服装は神の栄光となっていますか」</strong>（「ものみの塔」2016年9月号）</a></p>
+</div>
+</div>
+<div id="tt66" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f8" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="/wol/rslink/r7/lp-j?lang=J&amp;docid=102003927&amp;pub=g03&amp;issuedate=20031222"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1831" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1830" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt67" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p47" data-pid="47">ある誠実な女性は，どのように服装についてバランスの取れた見方を持てるようになったでしょうか。</p>
+<p id="p48" data-pid="48"><a href="/ja/wol/pc/r7/lp-j/1102021252/3/0"><strong>「服装と身なりがつまずきのもとでした」</strong>（「目ざめよ！」2003年12月22日号）</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+	<!-- Root element of lightbox -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+	<div id="questionContainer">
+		<ul></ul>
+	</div>
+
+	<div id="galleryModalContainer" class="underlay full fadeOut">
+    <div id="galleryModal">
+        <div class="header">
+            <div class="loading hidden"><span class="icon"></span></div>
+            <div class="galleryHeaderButtons">
+                <div class="galleryPlayCaption">
+                    <div class="galleryBtn playPauseBtn hidden"><span class="icon"></span></div>
+                </div>
+                
+                <div class="galleryBtn galleryClose">
+                    <div class="closeBtn"><span class="icon"></span></div>
+                </div>
+            </div>
+        </div>
+        <div class="contents">
+			
+            <div class="gallery">
+                <div class="galleryWrapper">
+                    <div class="navWrapper">
+                        <div class="itemContainer"></div>
+                    </div>
+                    <div class="carouselContainer noTooltips">
+						                    </div>
+                </div>
+            </div>
+
+                    </div>
+    </div>
+</div>
+</div>
+
+<input type="hidden" id="bibleDocumentNavigationChapterManyVerseFormat" value="{BibleBookName} {BibleChapter}:{StartingBibleVerse}-{EndingBibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationChapterVerseFormat" value="{BibleBookName} {BibleChapter}:{BibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationChapterVerseRangeFormat" value="{BibleBookName} {StartingBibleChapter}:{StartingBibleVerse}-{EndingBibleChapter}:{EndingBibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationSingleChapterManyVerseFormat" value="{BibleBookName} {StartingBibleVerse}-{EndingBibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationSingleChapterSingleVerseFormat" value="{BibleBookName} {BibleVerse}"/>
+<input type="hidden" id="documentNavigationMultiplePagesPositionFormat" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン p. {StartingPageNumber}-{EndingPageNumber}"/>
+<input type="hidden" id="documentNavigationSinglePagePositionFormat" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン p. {PageNumber}"/>
+<input type="hidden" id="documentDescription" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン"/>
+<input type="hidden" id="englishSym" value="lff"/>
+<input type="hidden" id="pubMediaServer" value="https://b.jw-cdn.org/apis/pub-media/GETPUBMEDIALINKS"/>
+<input type="hidden" id="audioPubSym" value="lff"/>
+<input type="hidden" id="chapNo" value="52"/>
+<input type="hidden" id="issue" value=""/>
+<input type="hidden" id="docId" value="1102021252"/>
+<input type="hidden" id="documentInBible" value=""/>
+<input type="hidden" id="hasRuby" value="true" />
+<input type="hidden" id="isRuby" value="false" />
+<input type="hidden" id="shareBaseUrl" value="https://www.jw.org/finder?wtlocale=J&docid=1102021252&srctype=wol&srcid=share"/>
+<input type="hidden" id="shareType" value="document"/>
+<input type="hidden" id="contentTitle" value="良い身だしなみは大切"/>
+<input type="hidden" id="parentTitle" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン"/>
+<input type="hidden" id="contentThumbnail" value="/ja/wol/d/r7/lp-j/1102021252/thumbnail"/>
+        </article>
+		</div></div>
+    </div>
+
+    <div id="regionFooter" class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		    <input id="returnToLibrary" type="hidden" value="{LibraryName}に戻る" />
+    <div id="userStatus" class="hidden" data-library-color="">
+        <div class="ellipsized currentLibrary">
+            <a class="chrome librarySelectionLink spriteLink" data-lang="J"
+               href="/ja/wol/li/r7/lp-j">
+                <span class="icon"></span>
+                <span class="label ellipsized showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">日本語出版物（1962-2023）</span>
+            </a>
+            <div id="cookieLibrary">
+
+            </div>
+        </div>
+        <div class="currentUser ellipsized">
+            <a id="userStatusLabel" class="statusLabel" href="#">
+                <span class="userName ellipsized"></span>
+            </a>
+            <div id="userControls" class="userControls hidden">
+                                <span id="headerLogout" class="hidden">
+        			<a class="statusItem userLogoutLink" href="#">ログアウト</a>                </span>
+            </div>
+        </div>
+        <div id="headerLogin" class="hidden">
+			<a class="statusButton userLoginLink" href="#">ログイン</a>        </div>
+    </div>
+		    <div id="contentFooterNavigation" role="navigation"
+         class=" showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+        <ul class="contentFooterIcons" role="menubar" class="chrome">
+            <li id="libraryTitle"
+                class="chrome"
+                role="menuitem"
+				lang="ja" data-lang="J" dir="ltr">
+                <a class="spriteLink"
+                   data-lang="J"
+                   href="/ja/wol/li/r7/lp-j">
+                    <span class="icon"></span>
+                    <span class="label">日本語</span>
+                </a>
+            </li>
+
+	        		        <li id="contentFooterShare" role="menuitem" aria-label="シェアする">
+			        <a id="shareButtonFooter" class="shareButtonFooterIcon spriteLink hidden" href="#">
+				        <span class="icon"></span>
+				        <span class="label">シェアする</span>
+			        </a>
+		        </li>
+	        
+            <li id="contentFooterPreferences" role="menuitem" aria-label="設定">
+                <a class="spriteLink" href="/ja/wol/pref/r7/lp-j?url=%2Fja%2Fwol%2Fd%2Fr7%2Flp-j%2F1102021252" rel="nofollow">
+                    <span class="icon"></span>
+                    <span class="label">設定</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+<div id="contentFooterLegal" class=" showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+    <ul class="contentFooterList" role="menubar">
+        <li class="showRuby ml-E ms-ROMAN dir-ltr" lang="en" data-lang="E" dir="ltr">
+			                <a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011511"
+                   target="_blank">Copyright</a>
+			            &copy;&nbsp;2022&nbsp;Watch Tower Bible and Tract Society of Pennsylvania        </li>
+		            <li>
+                <a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011511"
+                   target="_blank">利用規約</a>
+            </li>
+            <li>
+                <a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011512"
+                   target="_blank">プライバシーに関する方針</a>
+            </li>
+            <li>
+				<a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011512"
+				   id="privacySettingsButton"
+				   class="hidden"
+                   target="_blank">プライバシー設定</a>
+            </li>
+            <li id="jworg" role="menuitem" aria-label="jw.org">
+                <a id="jworgLogo" class="spriteLink" target="_blank" href="https://www.jw.org/finder?wtlocale=J&docid=1011200">
+                    <span class="icon"></span>
+                    <span class="label">JW.ORG</span>
+                </a>
+            </li>
+				            <li id="footerLogin" class="clickable hidden">
+				<a class="statusButton userLoginLink" href="#">ログイン</a>            </li>
+		                    </ul>
+    </div>
+    </div>
+
+    <div id="dialogContainer" class=" showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr"></div>
+    <div id="modalUnderlayContainer" class="underlay" tabindex="-1"></div>
+    <div id="underlayContainer" class="underlay" touch-action="none"></div>
+
+	<!-- share dialog -->
+	<input type="hidden" id="mobileNativeShare" value=""/>
+	<div class="jwac showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<div id="shareForm" class="hidden">
+			<div>
+				<div class="header chrome">
+					シェアする					<div class="closeBtn" aria-label="閉じる" onclick="app.modal.removeModals();">
+						<span class="icon"></span>
+					</div>
+				</div>
+				<form class="content">
+					<div class="shareFormWrapper">
+						<div>
+							<img class="sharePublicationImage" />
+						</div>
+						<div class="shareInfoContainer">
+							<div class="jwac showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+								<div class="shareContentParentTitle"></div>
+								<div class="shareContentTitle"></div>
+							</div>
+							<input id="shareLink" class="shareLink" type="text" readonly
+								   dir="ltr" />
+							<button type="button" class="grayButton small shareCopyButton"
+									aria-label="コピー"
+									onClick="app.utilities.copyToClipboard(document.getElementById('shareLink').value)">
+								<span class="icon"></span>
+							</button>
+							<div class="shareButtonContainer">
+								<button type="button" class="grayButton shareMailButton" onClick="app.share.sendEmail();">
+									<span class="icon"></span>
+									メールでシェアする								</button>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- end share dialog -->
+</div>
+
+<input type="hidden" id="newMeetingsPage" value="yes"/>
+
+
+<script src="https://b.jw-cdn.org/code/media-player/v1.6.0/js/media-player.min.js"></script>
+<script src="/assets/js/+1+0ca283f234d3853c38d3b7638a30f691656214ea.js"></script>
+<script src="/assets/js/+2+e486e3cb3baa7abba75a67d7440b6369a3f7c226.js"></script>
+
+</body>
+</html>

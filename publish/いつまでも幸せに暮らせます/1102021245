@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+    <title>中立であるとはどういうこと？ &mdash; ものみの塔 オンライン・ライブラリー</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	        <meta name="description" content="エホバの証人の公式ウェブサイトです。エホバの証人が様々な言語で発行している出版物を調べることができます。"/>
+        <meta name="keywords" content="エホバの証人, エホバ, 証人, ものみの塔, ライブラリー, オンライン, 出版物"/>
+	    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+	
+    <link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120"
+          href="/icon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152"
+          href="/icon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180"
+          href="/icon/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
+    <link rel="mask-icon" href="/icon/safari-pinned-tab.svg" color="#799FCC">
+    <link rel="shortcut icon" href="/icon/favicon.ico">
+    <meta name="msapplication-config" content="/icon/browserconfig.xml">
+    <meta name="apple-mobile-web-app-title" content="WOL">
+    <meta name="application-name" content="WOL">
+    <meta name="theme-color" content="#799fcc">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="apple-mobile-web-app-capable" content="no"/>
+	<link rel="stylesheet" type="text/css" href="https://b.jw-cdn.org/code/media-player/v1.6.0/skins/light.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+0+974f270baf9554651558d525c4fb9b2bbaba7049.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+1+eb8a03e8208c2b519502e9f295a5cdb86ce59e18.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+2+465c866887961124442af21bb7f783d185e6b372.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+3+c6b72ff1988ccd26e5384d03fe3f4797a0efccb7.css"/>
+	
+	        <script>
+			var localizedNumbers = ["0","1"];
+			window.VIDEOJS_NO_DYNAMIC_STYLE = true;
+        </script>
+	
+	
+	<input id="insightApi" type="hidden" value="https://b.jw-cdn.org/apis/insight/events" />
+
+	<script src="/assets/js/+0+3b23965c032d57f4d3f2965f87b3740e2c650208.js"></script>
+
+	</head>
+<body class="showRuby cc-theme--light DynamicLayout">
+<style id="scalableui"></style>
+<script>
+    if (window.Cookies != null) {
+	    // Apply user preferred font size
+        // Doesn't apply to static pages, all of which don't scale text
+	    var fontScale = Cookies.get('fontScale');
+
+	    if (fontScale) {
+		    var scalableuiStyleContainer = document.getElementById('scalableui');
+		    var scalableuiStyleSheet = scalableuiStyleContainer.sheet;
+
+		    scalableuiStyleSheet.insertRule(
+			    '.scalableui{font-size:' + fontScale * 100 + '%;}',
+			    scalableuiStyleSheet.cssRules.length
+		    );
+	    }
+    }
+</script>
+<div id="wrapper" class="dropShadow50">
+	<input id="locale" type="hidden" value="ja" />
+<input id="tooltipContentErrorMessage" type="hidden" value="資料を開くにはここをクリックしてください。" />
+<input id="rsconf" type="hidden" value="r7" />
+<input id="lib" type="hidden" value="lp-j" />
+<input id="libLang" type="hidden" value="日本語" />
+<input id="libTitle" type="hidden" value="日本語出版物（1962-2023）" />
+<input id="libDir" type="hidden" value="ltr" />
+<input id="libLangSym" type="hidden" value="J" />
+<input id="libLangScript" type="hidden" value="JAPANESE" />
+<input id="libLangIsSignLanguage" type="hidden" value="" />
+<input id="libraryLocale" type="hidden" value="ja" />
+<input id="contentLocale" type="hidden" value="ja" />
+<input id="contentRsconf" type="hidden" value="r7" />
+<input id="contentLib" type="hidden" value="lp-j" />
+<input id="contentLibLang" type="hidden" value="日本語" />
+<input id="contentLibTitle" type="hidden" value="日本語出版物（1962-2023）" />
+<input id="rubyAvailable" type="hidden" value="true" />
+<input id="contentLibDir" type="hidden" value="ltr" />
+<input id="contentLibLangSym" type="hidden" value="J" />
+<input id="contentLibLangScript" type="hidden" value="JAPANESE" />
+<input id="contentLibLangIsSignLanguage" type="hidden" value="false" />
+<input id="siteCookieDomain" type="hidden" value="wol.jw.org" />
+<input id="audioMultiselect" type="hidden" value="" />
+<input id="site" type="hidden" value="unified" />
+
+    <div id="regionHeader" class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<div id="siteBanner">
+    <div class="title">
+        <a href="/ja/wol/h/r7/lp-j">
+            <span class="logo"><span class="icon"></span></span>
+            <div class="ellipsized label">
+                <span class="ellipsized titleBig">ものみの塔 オンライン・ライブラリー</span>
+                <div class="ellipsized titleLittle siteTitleLine1">ものみの塔</div>
+                <div class="ellipsized titleLittle siteTitleLine2">オンライン・ライブラリー</div>
+            </div>
+        </a>
+    </div>
+	        <div class="language">
+            <a class="chrome librarySelectionLink spriteLink"
+               data-lang="J" href="/ja/wol/li/r7/lp-j">
+                <span class="icon"></span>
+                <span class="label">日本語</span>
+            </a>
+        </div>
+	</div>
+		<div id="toolbarFrame">
+    <div id="standardSearch" class="searchControl">
+					<form class="searchForm" role="search" method="GET" action="/ja/wol/qt/r7/lp-j">
+	<div class="searchFieldContainer">
+	<input type="hidden" id="st" name="st" />
+	<input class="searchField"
+		       name="q"
+		       accept-charset="utf-8"
+		       type="text"
+		       title="検索演算子: * = 0文字以上; ? = 1文字; &quot;&nbsp;&quot; = 一連の語句; & = AND検索; | = OR検索; ! = NOT検索; () = グループ化"
+		       aria-label="検索する語句か聖句を入力"
+		       placeholder="語句を入力"
+		       autocomplete="off"
+		       autocapitalize="off"
+		       autocorrect="off"
+               autofocus="autofocus"
+		       spellcheck="false"
+		       maxlength="256"
+		       value=""/>
+        <span class="searchFieldCancel"><span class="icon"></span></span>
+			</div>
+	<div class="searchControlContainer">
+		<input type="hidden"
+		       name="p"
+		       value="par"/>
+        <input type="hidden"
+               name="r"
+               value="occ"/>
+        <input class="searchButton" type="submit" value="検索"/>
+	</div>
+	<div class="searchControlButtons">
+		<button class="searchIcon menuButton" type="button" aria-label="検索"><span class="icon"></span></button>
+		<button class="closeIcon menuButton" type="button" aria-label="キャンセル"><span class="icon"></span></button>
+	</div>
+		<div class="suggestions hidden"></div>
+</form>
+		    </div>
+    <div id="toolbarMenu">
+        <ul class="menu" role="menu">
+			                <li id="menuToolsPreferences" class="menuButton iconOnly menuRight" role="menuitem"
+                    aria-label="設定">
+                    <a href="/ja/wol/pref/r7/lp-j?url=%2Fja%2Fwol%2Fd%2Fr7%2Flp-j%2F1102021245"
+                       rel="nofollow"><span class="icon"></span>
+                    </a>
+                </li>
+	            					<li id="menuToolsShare" class="menuButton iconOnly menuRight"
+					    role="menuitem"
+					    aria-label="シェアする">
+						<a id="shareButton" class="shareButtonIcon hidden" href="#">
+							<span class="icon"></span>
+						</a>
+					</li>
+							        </ul>
+    </div>
+    <div id="menuHome" role="menuitem" class="showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+        <a href="/ja/wol/h/r7/lp-j" aria-label="ホーム">
+            <span class="icon"></span>
+        </a>
+    </div>
+    <div id="menuFrame">
+        <ul id="menuBar" class="menu" role="menubar">
+							                    <li id="menuBible" class="chrome menuButton showRuby ml-J ms-JAPANESE dir-ltr" role="menuitem"
+                        aria-label="聖書" lang="ja" data-lang="J" dir="ltr">
+                        <a href="/ja/wol/binav/r7/lp-j" role="menuitem"
+                            aria-label="聖書"><span class="icon"></span><span
+                                    class="label">聖書</span></a>
+                    </li>
+				
+                <li id="menuPublications" class="chrome menuButton showRuby ml-J ms-JAPANESE dir-ltr" role="menuitem"
+                    aria-label="出版物" lang="ja" data-lang="J" dir="ltr">
+                    <a href="/ja/wol/lv/r7/lp-j/0" role="menuitem" 
+                        aria-label="出版物"><span class="icon"></span>
+                            <span class="label">出版物</span></a>
+                </li>
+
+				                    <li id="menuToday" class="chrome menuButton showRuby ml-J ms-JAPANESE dir-ltr" role="menuitem"
+                        aria-label="集会" lang="ja" data-lang="J" dir="ltr">
+                        <a class="todayNav" href="/ja/wol/meetings/r7/lp-j" role="menuitem"
+                            aria-label="集会"><span class="icon"></span><span
+                                    class="label">集会</span></a>
+                    </li>
+								                    <li id="menuSynchronizeControls" class="hidden">
+                        <ul>
+                            <li id="menuSynchronize" class="chrome menuButton tbSync hidden" role="menuitem"
+                                aria-label="シンクロ">
+                                <a id="linkSynchronize" href="#" rel="nofollow">
+                                    <span class="icon"></span> <span class="label"></span> </a>
+                            </li>
+                            <li id="menuSynchronizeSwitch" class="chrome menuButton tbSync" role="menuitem">
+                                <a id="linkSynchronizeSwitch" href="#" rel="nofollow">
+                                    <span class="icon"></span> </a>
+                            </li>
+                        </ul>
+                    </li>
+				                <li id="menuSearchHitNext"
+                    class="chrome menuButton iconOnly menuRight hidden showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+                    <a href="#"><span class="icon"></span></a></li>
+			        </ul>
+    </div>
+</div>
+		<div id="publicationNavigation"
+     class="chrome">
+	<div class="secondaryNavToggle"><span class="icon"></span></div>
+
+	<div class="pubNavTitle">
+        <div class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<ul>
+            <li class="resultsNavigationSelected documentLocation navPublications"><a href="/ja/wol/publication/r7/lp-j/lff/48" class="spriteLink ellipsized"><span class="icon"></span>暮 レッスン45</a></li>
+			<li class="resultDocumentPubTitle ellipsized">
+				中立であるとはどういうこと？			</li>
+		</ul>
+        </div>
+	</div>
+
+			<div class="chrome forwardBackNavControls resultNavControls">
+			<ul>
+				<li class="resultNavLeft"><a class="resultsNavDocumentLink" href="/ja/wol/d/r7/lp-j/1102021244"><span class="icon"></span></a></li><li class="resultNavRight"><a class="resultsNavDocumentLink" href="/ja/wol/d/r7/lp-j/1102021246"><span class="icon"></span></a></li>			</ul>
+		</div>
+	
+	<div class="navPosition hidden showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<div class="scrollPositionDisplay"></div>
+	</div>
+</div>
+
+			            <div id="playerwrapper" class="hidden headerPosition"></div>
+	        </div>
+
+    <div id="regionMain" class="unified navLeft showRuby ml-J ms-JAPANESE dir-ltr hasSecondaryNav showSecondaryNav" lang="ja" data-lang="J" dir="ltr" >
+	                <div id="videoWrapperContainer" lang="ja" data-lang="J" dir="ltr">
+                <div id="videoWrapper"
+                     class="hidden headerPosition constrainedHeight hasSecondaryNav showSecondaryNav showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+                    <div class="topShadow"></div>
+                    <div class="videoNoticeContainer">
+                        <p class="noticeText noMarkerNotice">視聴できるビデオはありません。</p>
+                        <p class="noticeText videoErrorNotice">申し訳ありません，ビデオをロード中にエラーが発生しました。</p>
+                    </div>
+                    <div id="playerShared" class="uninitialized"></div>
+                </div>
+            </div>
+	                <div id="secondaryNavContent"
+         class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+        <div id="secondaryNav" role="navigation">
+			                <nav>
+                    <div id="resultNavigation"><div class="resultNavTitle">
+        <ul>
+            <li  class="resultsNavigationSelected  "><span><span class="navContent">中立であるとはどういうこと？</span></span></li><li  class="resultDocumentPubTitle  "><span><span class="navContent">いつまでも幸せに暮らせます 楽しく学べる聖書レッスン</span></span></li>        </ul>
+    </div></div>
+                </nav>
+						                <div id="documentNavigation" class="chrome">
+					                        <ul class="navigationTabs">
+                            <li class="active tabItem" data-related-content="subheadings">
+                                <div class="chrome showRuby ml-J ms-JAPANESE dir-ltr">
+									副見出し                                </div>
+                            </li>
+                            <li class="tabItem" data-related-content="similarMaterial">
+                                <div class="chrome showRuby ml-J ms-JAPANESE dir-ltr">
+									関連する記事                                </div>
+                            </li>
+                        </ul>
+					                    <div class="navigationContents">
+						                            <div id="subheadings" class="active tabContent" role="navigation">
+                                <nav>
+									            <ul class="documentNavigation noTooltips" role="navigation">
+                            <li class="subheading"><a href="/ja/wol/d/r7/lp-j/1102021245#p8">もっと調べよう</a></li>
+                            <li class="subheading"><a href="/ja/wol/d/r7/lp-j/1102021245#p34">まとめ</a></li>
+                            <li class="subheading"><a href="/ja/wol/d/r7/lp-j/1102021245#p44">見てみよう</a></li>
+                    </ul>
+                                    </nav>
+                            </div>
+                            <div id="similarMaterial" class="tabContent">
+								    <ul class="results linkCard">
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/2016288" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <img     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-w16
+            cat-w
+    " 
+        data-pub-symbol="w16"
+ src="/wol/publication/r7/lp-j/w16/2016/4/thumbnail"/>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    分裂した世で中立を保つ
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    エホバの王国を告げ知らせるものみの塔（研究用）2016
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/502014218" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <img     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-ijwfq
+            cat-web
+            cat-aboutus
+    " 
+        data-pub-symbol="ijwfq"
+ src="/wol/publication/r7/lp-j/ijwfq/thumbnail"/>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    エホバの証人が政治的中立を保つのはなぜですか
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    よくある質問
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/1102002078" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <span     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-wt
+            cat-bk
+    " 
+        data-pub-symbol="wt"
+ ></span>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    『彼らは世のものではありません』
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    唯一まことの神を崇拝する
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		    </ul>
+
+	                            </div>
+						                    </div>
+                </div>
+			        </div>
+    </div>
+
+<div id="documentCitationInformation">
+    <div>いつまでも幸せに暮らせます 楽しく学べる聖書レッスン</div>
+    <div><strong>暮 レッスン45</strong></div>
+</div>
+
+<div id="content" class="content">
+	    <div class="articlePositioner" lang="ja" data-lang="J" dir="ltr">
+            <div id="banner" class="documentBanner showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+			        </div>
+        <article id="article" class="article document html5 pub- docId-1102021245 pub-lff pub- docClass-13 jwac showRuby ml-J ms-JAPANESE dir-ltr includeSecondaryNav" lang="ja" data-lang="J" dir="ltr"             role="article">
+			
+<div class="scalableui">
+	<header>
+<div id="f1" class="north_center">
+<figure>
+<img src="/ja/wol/mp/r7/lp-j/lff/2021/1548" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1547" alt="レッスン45。若い姉妹が，国旗敬礼の時に敬意を払って立っているが，他の生徒たちのように胸に手を置いて誓いの言葉を暗唱してはいない。" width="1200" height="303" class="north_center" />
+</figure>
+</div>
+<p class="contextTtl" id="p1" data-pid="1"><span id="page187" class="pageNum" aria-hidden="true" data-no="187" data-before-text="187"></span><strong>レッスン45</strong></p>
+<h1 id="p2" data-pid="2"><strong>中立であるとはどういうこと？</strong></h1>
+</header>	<div class="clearfix alternatePresentation clickable noTooltips
+		">
+		<div class="thumbnail">
+			<img src="/ja/wol/mp/r7/lp-j/lff/2021/1541" class="lightbox"
+				 data-alt-src="/ja/wol/mp/r7/lp-j/lff/2021/1544"
+				 data-alt-type="svg"/>
+		</div>
+		<div class="title">印刷版</div>
+	</div>
+	<div class="clearfix alternatePresentation clickable noTooltips
+		hidden">
+		<div class="thumbnail">
+			<img src="/ja/wol/mp/r7/lp-j/lff/2021/1542" class="lightbox"
+				 data-alt-src="/ja/wol/mp/r7/lp-j/lff/2021/1545"
+				 data-alt-type="svg"/>
+		</div>
+		<div class="title">印刷版</div>
+	</div>
+	<div class="clearfix alternatePresentation clickable noTooltips
+		hidden">
+		<div class="thumbnail">
+			<img src="/ja/wol/mp/r7/lp-j/lff/2021/1543" class="lightbox"
+				 data-alt-src="/ja/wol/mp/r7/lp-j/lff/2021/1546"
+				 data-alt-type="svg"/>
+		</div>
+		<div class="title">印刷版</div>
+	</div>
+
+<div class="bodyTxt">
+<div id="tt4">
+<p id="p3" data-pid="3">イエスは弟子たちに，「世の人々のようで」あってはならないと教えました。（<a href="/ja/wol/bc/r7/lp-j/1102021245/0/0" data-bid="1-1" class="b">ヨハネ 15:19</a>）その教えに従うことには，中立であることが含まれます。つまり，政治的な問題や戦争などで，どの側も支持しないということです。それは必ずしも簡単なことではなく，中立であろうとするとばかにされるかもしれません。どうすれば中立であり続け，自分がエホバ神に従っていることを示せるでしょうか。</p>
+<h3 class="du-color--turquoise-700 du-fontSize--base du-margin-top--8" id="p4" data-pid="4"><strong>1. 本物のクリスチャンは人間の政府をどう見る？</strong></h3>
+<p id="p5" data-pid="5">クリスチャンは政府に敬意を払います。イエスが言った通り，<strong>「カエサルのものはカエサルに……返し」ます。</strong>つまり，税金をきちんと払ったりして，国の法律に従います。（<a href="/ja/wol/bc/r7/lp-j/1102021245/1/0" data-bid="2-1" class="b">マルコ 12:17</a>）とはいえ，聖書によると，人間の政府が治めているのは，そうすることをエホバが許しているからです。（<a href="/ja/wol/bc/r7/lp-j/1102021245/2/0" data-bid="3-1" class="b">ローマ 13:1</a>）ですから，人間の政府には限られた権威しかありません。世の中の問題を解決する面で私たちが頼りにしているのは，神の王国です。</p>
+<h3 class="du-color--turquoise-700 du-fontSize--base du-margin-top--8" id="p6" data-pid="6"><strong>2. 中立であることをどうすれば示せる？</strong></h3>
+<p id="p7" data-pid="7">私たちはイエスのように，政治には関わりません。人々がイエスの奇跡を見てイエスを王にしようとした時，イエスはそれに応じようとしませんでした。（<a href="/ja/wol/bc/r7/lp-j/1102021245/3/0" data-bid="4-1" class="b">ヨハネ 6:15</a>）なぜでしょうか。その理由としてイエスは後に，<strong>「私の王国はこの世界のものではありません」</strong>と言いました。（<a href="/ja/wol/bc/r7/lp-j/1102021245/4/0" data-bid="5-1" class="b">ヨハネ 18:36</a>）私たちはイエスの弟子として，中立であることをどうすれば示せるでしょうか。例えば，戦争には参加しません。（<a href="/ja/wol/bc/r7/lp-j/1102021245/5/0" data-bid="6-1" class="b">ミカ 4:3</a>を読む。）国旗など，国の象徴に敬意を払いますが，それをたたえたり拝んだりはしません。（<a href="/ja/wol/bc/r7/lp-j/1102021245/6/0" data-bid="7-1" class="b">ヨハネ第一 5:21</a>）特定の政党や政治家を支持したり批判したりもしません。こうした方法で，私たちは神の王国だけを支持していることを示します。</p>
+</div>
+<div id="tt7">
+<h2 class="du-color--coolGray-400 du-fontSize--basePlus1 du-letterSpacing--8 du-constrainStylesToTextWidth du-borderStyle-top--solid du-borderColor-top--coolGray-400 du-borderWidth-top--4 du-margin-top--12 du-padding-top--4" id="p8" data-pid="8"><span id="page188" class="pageNum" aria-hidden="true" data-no="188" data-before-text="188"></span><strong>もっと調べよう</strong></h2>
+<div id="tt9" class="du-fontSize--basePlus1">
+<p id="p9" data-pid="9">中立であるのを難しくさせる状況を幾つか考えましょう。どうすればエホバに喜ばれる判断ができるでしょうか。</p>
+</div>
+<div id="f2" class="du-margin-top--8">
+<figure>
+<img src="/ja/wol/mp/r7/lp-j/lff/2021/1550" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1549" alt="男性が中立を保っている。選挙の候補者たちがそれぞれ聴衆の前で演説をしているが，男性は耳を傾けていない。" width="1200" height="345" />
+</figure>
+</div>
+<h3 class="du-color--turquoise-700 du-margin-top--8" id="p10" data-pid="10"><strong>3. 本物のクリスチャンはいつも中立</strong></h3>
+<p id="p11" data-pid="11">私たちはイエスと1世紀の弟子たちの手本に倣います。<a href="/ja/wol/bc/r7/lp-j/1102021245/7/0" data-bid="8-1" class="b"><strong>ローマ 13章1，</strong></a><a href="/ja/wol/bc/r7/lp-j/1102021245/7/1" data-bid="8-2" class="b"><strong>5-7節</strong></a><strong>と</strong><a href="/ja/wol/bc/r7/lp-j/1102021245/8/0" data-bid="9-1" class="b"><strong>ペテロ第一 2章13，14節</strong></a><strong>を読んでください。</strong>それから<a href="https://www.jw.org/finder?lank=pub-lffv_451_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=451"><strong>動画を見て</strong></a><strong>，</strong>次のことを考えましょう。</p>
+<div id="tt12" class="dc-columns du-bgColor--teal-50 du-margin-inlineEnd-desktopOnly--oneThird du-padding--4">
+<div id="f3" class="dc-column-width--oneThird du-margin-inlineEnd--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-lffv_451_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=451" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1552" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1551" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt13" class="dc-column-width--twoThirds du-fontSize--baseMinus1 du-margin-children-vertical--0">
+<p id="p12" data-pid="12"><a href="https://www.jw.org/finder?lank=pub-lffv_451_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=451"><strong>動画: 「本物のクリスチャンはいつも中立（第1部）」（4:28）</strong></a></p>
+</div>
+</div>
+<ul><li><p id="p13" data-pid="13">  政府に敬意を払うべきなのはどうしてでしょうか。</p>
+</li>
+<li><p id="p14" data-pid="14">  政府に従っていることを示すために，どんなことができますか。</p>
+</li>
+</ul>
+<p id="p15" data-pid="15">戦争が起きた時に，ある国が中立を主張しながら，争っている双方の側をサポートすることがあります。本当の中立とはどういうことでしょうか。<a href="/ja/wol/bc/r7/lp-j/1102021245/9/0" data-bid="10-1" class="b"><strong>ヨハネ 17章16節</strong></a><strong>を読んでください。</strong>それから<a href="https://www.jw.org/finder?lank=pub-lffv_452_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=452"><strong>動画を見て</strong></a><strong>，</strong>次のことを考えましょう。</p>
+<div id="tt19" class="dc-columns du-bgColor--teal-50 du-margin-inlineEnd-desktopOnly--oneThird du-padding--4">
+<div id="f4" class="dc-column-width--oneThird du-margin-inlineEnd--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-lffv_452_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=452" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1555" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1554" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt20" class="dc-column-width--twoThirds du-fontSize--baseMinus1 du-margin-children-vertical--0">
+<p id="p16" data-pid="16"><a href="https://www.jw.org/finder?lank=pub-lffv_452_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=452"><strong>動画: 「本物のクリスチャンはいつも中立（第2部）」（3:11）</strong></a></p>
+</div>
+</div>
+<ul><li><p id="p17" data-pid="17">  中立とはどういうことですか。</p>
+</li>
+</ul>
+<p id="p18" data-pid="18">神の教えに反することを政府から求められる場合，どうしたらいいでしょうか。<a href="/ja/wol/bc/r7/lp-j/1102021245/10/0" data-bid="11-1" class="b"><strong>使徒 5章28，29節</strong></a><strong>を読んでください。</strong>それから<a href="https://www.jw.org/finder?lank=pub-lffv_453_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=453"><strong>動画を見て</strong></a><strong>，</strong>次のことを考えましょう。</p>
+<div id="tt25" class="dc-columns du-bgColor--teal-50 du-margin-inlineEnd-desktopOnly--oneThird du-padding--4">
+<div id="f5" class="dc-column-width--oneThird du-margin-inlineEnd--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-lffv_453_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=453" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1558" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1557" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt26" class="dc-column-width--twoThirds du-fontSize--baseMinus1 du-margin-children-vertical--0">
+<p id="p19" data-pid="19"><a href="https://www.jw.org/finder?lank=pub-lffv_453_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=453"><strong>動画: 「本物のクリスチャンはいつも中立（第3部）」（1:18）</strong></a></p>
+</div>
+</div>
+<ul><li><p id="p20" data-pid="20">  人間が命じることと神が命じることが違う場合，どちらに従うべきですか。</p>
+</li>
+<li><p id="p21" data-pid="21">  クリスチャンが政府に従わないことにする，どんな場合が考えられますか。</p>
+</li>
+</ul>
+<h3 class="du-color--turquoise-700 du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--12 du-padding-top--8" id="p22" data-pid="22"><span id="page189" class="pageNum" aria-hidden="true" data-no="189" data-before-text="189"></span><strong>4. 考えと行動が中立であるようにする</strong></h3>
+<p id="p23" data-pid="23"><a href="/ja/wol/bc/r7/lp-j/1102021245/11/0" data-bid="12-1" class="b"><strong>ヨハネ第一 5章21節</strong></a><strong>を読んでください。</strong>それから<a href="https://www.jw.org/finder?lank=pub-jwbcov_201805_5_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwbcov&amp;issue=201805&amp;track=5"><strong>動画を見て</strong></a><strong>，</strong>次のことを考えましょう。</p>
+<div id="tt33" class="dc-columns du-bgColor--teal-50 du-margin-inlineEnd-desktopOnly--oneThird du-padding--4">
+<div id="f6" class="dc-column-width--oneThird du-margin-inlineEnd--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-jwbcov_201805_5_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwbcov&amp;issue=201805&amp;track=5" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1561" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1560" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt34" class="dc-column-width--twoThirds du-fontSize--baseMinus1 du-margin-children-vertical--0">
+<p id="p24" data-pid="24"><a href="https://www.jw.org/finder?lank=pub-jwbcov_201805_5_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwbcov&amp;issue=201805&amp;track=5"><strong>動画: 「真のクリスチャンには勇気が必要: 中立を保つために」（2:49）</strong></a></p>
+</div>
+</div>
+<ul><li><p id="p25" data-pid="25">  アエンゲが政党に入ったり国旗敬礼に参加したりしなかったのはどうしてでしたか。</p>
+</li>
+<li><p id="p26" data-pid="26">  アエンゲは良い判断をしたと思いますか。</p>
+</li>
+</ul>
+<p id="p27" data-pid="27">ほかにも，本当に中立かどうかが試されるどんな状況があるでしょうか。<a href="https://www.jw.org/finder?lank=pub-jwb_201903_6_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwb&amp;issue=201903&amp;track=6"><strong>動画を見て</strong></a><strong>，</strong>次のことを考えましょう。</p>
+<div id="tt40" class="dc-columns du-bgColor--teal-50 du-margin-inlineEnd-desktopOnly--oneThird du-padding--4">
+<div id="f7" class="dc-column-width--oneThird du-margin-inlineEnd--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-jwb_201903_6_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwb&amp;issue=201903&amp;track=6" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1564" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1563" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt41" class="dc-column-width--twoThirds du-fontSize--baseMinus1 du-margin-children-vertical--0">
+<p id="p28" data-pid="28"><a href="https://www.jw.org/finder?lank=pub-jwb_201903_6_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwb&amp;issue=201903&amp;track=6"><strong>動画: 「『ものみの塔』から学ぶ: 分裂した世で中立を保つ」（5:16）</strong></a></p>
+</div>
+</div>
+<ul><li><p id="p29" data-pid="29">  国際的なスポーツイベントがあるときに，どうすれば中立を保てますか。</p>
+</li>
+<li><p id="p30" data-pid="30">  政治家の政策が自分の生活に影響しそうなときに，どうすれば中立を保てますか。</p>
+</li>
+<li><p id="p31" data-pid="31">  マスコミや周りの人たちからどんな影響を受ける場合がありますか。</p>
+</li>
+</ul>
+<div id="f8" class="dc-bleedToArticleEdge du-margin-vertical--8">
+<figure>
+<img src="/ja/wol/mp/r7/lp-j/lff/2021/1567" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1566" alt="1. サインを掲げて抗議活動をしている人たち。2. スポーツの試合で国旗を掲げて応援している男性。3. 国旗敬礼をしている生徒。4. マシンガンを持っている兵士。5. 公開討論をしている2名の選挙候補者たち。6. 女性が投票箱に票を入れている。" width="1200" height="741" />
+<figcaption class="figcaption dc-paddingToContentEdge">
+<p id="p54" data-pid="54">どんな分野で，クリスチャンは考えや行動が中立であるようにするべきか。</p>
+</figcaption>
+</figure>
+</div>
+<div id="tt47" class="dc-bleedToArticleEdge dc-paddingToContentEdge du-bgColor--gray-50 du-margin-top--12 du-padding-vertical--4">
+<p id="p32" data-pid="32"><strong>こう聞かれたら:</strong> 「どうして国旗に礼をしたり国歌を歌ったりしないの？」</p>
+<ul><li><p id="p33" data-pid="33">  どう答えますか。</p>
+</li>
+</ul>
+</div>
+</div>
+<div id="tt50">
+<h2 class="du-color--turquoise-700 du-fontSize--basePlus1 du-margin-top--12" id="p34" data-pid="34"><span id="page190" class="pageNum" aria-hidden="true" data-no="190" data-before-text="190"></span><strong>まとめ</strong></h2>
+<p id="p35" data-pid="35">クリスチャンは政治的な事柄について，考えや言動が中立であるようにする。</p>
+<h3 class="du-color--coolGray-500 du-fontSize--basePlus1 du-margin-top--8" id="p36" data-pid="36"><strong>復習</strong></h3>
+<ul><li><p id="p37" data-pid="37">  本物のクリスチャンは政府に対してどんな態度を取りますか。</p>
+</li>
+<li><p id="p38" data-pid="38">  私たちが政治的な事柄において中立であるのはどうしてですか。</p>
+</li>
+<li><p id="p39" data-pid="39">  どんな状況で，本当に中立かどうかが試されることがありますか。</p>
+</li>
+</ul>
+<div class="gen-field du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--12 du-padding--4 du-padding-desktopOnly--8" id="p40" data-pid="40">
+<label for="tt59" id="tt58">レッスンが終わった日: </label>
+<input type="text" id="tt59" name="text-1"/>
+</div>
+<div id="tt61" class="du-bgColor--warmGray-50 du-padding--4 du-padding-desktopOnly--8">
+<fieldset>
+<legend id="p41" data-pid="41" class="du-color--coolGray-500 du-fontSize--basePlus2"><strong>次のステップ</strong></legend>
+<div class="gen-field" id="p42" data-pid="42">
+<input type="checkbox" id="tt65" class="du-borderStyle--none" name="goal-checkbox-1"/>
+<label for="tt65" id="tt67">本当に中立かどうかが試される状況を考えて，そういう時にどうするかを前もって決めておく。</label>
+</div>
+<div class="gen-field" id="p43" data-pid="43">
+<input type="checkbox" id="tt69" class="du-borderStyle--none" name="goal-checkbox-2"/>
+<label for="tt69" id="tt71">ほかにできること: </label>
+<div class="gen-field">
+<label for="tt74" id="tt72" class="dc-screenReaderText">別の目標</label>
+<textarea id="tt74" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
+</div>
+</fieldset>
+</div>
+<div id="tt76" class="du-bgColor--gray-50 du-margin-top--12 du-padding--4 du-padding-desktopOnly--8">
+<h3 class="du-color--coolGray-500 du-fontSize--basePlus2 du-letterSpacing--8 du-margin-top--0" id="p44" data-pid="44"><strong>見てみよう</strong></h3>
+<div id="tt78" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f9" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-lffv_454_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=454" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1569" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1568" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt79" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p45" data-pid="45">中立であるために，どんな犠牲を払わなければならない場合があるでしょうか。</p>
+<p id="p46" data-pid="46"><a href="https://www.jw.org/finder?lank=pub-lffv_454_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=454"><strong>「エホバは決して私たちを見捨てたりされません」</strong>（3:14）</a></p>
+</div>
+</div>
+<div id="tt81" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f10" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-jwb_201903_3_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwb&amp;issue=201903&amp;track=3" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1572" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1571" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt82" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p47" data-pid="47">中立であるために，家族でどんな準備ができるでしょうか。</p>
+<p id="p48" data-pid="48"><a href="https://www.jw.org/finder?lank=pub-jwb_201903_3_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwb&amp;issue=201903&amp;track=3"><strong>「どんな時でも中立を保つ」</strong>（4:25）</a></p>
+</div>
+</div>
+<div id="tt84" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f11" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-jwbvs_201607_1_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwbvs&amp;issue=201607&amp;track=1" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1575" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1574" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt85" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p49" data-pid="49">人にとって最高の栄誉は，国を守ることではありません。どうしてそう言えるでしょうか。</p>
+<p id="p50" data-pid="50"><a href="https://www.jw.org/finder?lank=pub-jwbvs_201607_1_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwbvs&amp;issue=201607&amp;track=1"><strong>「神にとってはすべてのことが可能です」</strong>（5:19）</a></p>
+</div>
+</div>
+<div id="tt87" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f12" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="/wol/rslink/r7/lp-j?lang=J&amp;docid=2006206&amp;pub=w06&amp;issuedate=20060315"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1578" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1577" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt88" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p51" data-pid="51">仕事を選ぶ時に，どうすれば「世の人々のようではない」ことを示せるでしょうか。</p>
+<p id="p52" data-pid="52"><a href="/ja/wol/pc/r7/lp-j/1102021245/0/0"><strong>「人はおのおの自分の荷を負う」</strong>（「ものみの塔」2006年3月15日号）</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+	<!-- Root element of lightbox -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+	<div id="questionContainer">
+		<ul></ul>
+	</div>
+
+	<div id="galleryModalContainer" class="underlay full fadeOut">
+    <div id="galleryModal">
+        <div class="header">
+            <div class="loading hidden"><span class="icon"></span></div>
+            <div class="galleryHeaderButtons">
+                <div class="galleryPlayCaption">
+                    <div class="galleryBtn playPauseBtn hidden"><span class="icon"></span></div>
+                </div>
+                
+                <div class="galleryBtn galleryClose">
+                    <div class="closeBtn"><span class="icon"></span></div>
+                </div>
+            </div>
+        </div>
+        <div class="contents">
+			
+            <div class="gallery">
+                <div class="galleryWrapper">
+                    <div class="navWrapper">
+                        <div class="itemContainer"></div>
+                    </div>
+                    <div class="carouselContainer noTooltips">
+						                    </div>
+                </div>
+            </div>
+
+                    </div>
+    </div>
+</div>
+</div>
+
+<input type="hidden" id="bibleDocumentNavigationChapterManyVerseFormat" value="{BibleBookName} {BibleChapter}:{StartingBibleVerse}-{EndingBibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationChapterVerseFormat" value="{BibleBookName} {BibleChapter}:{BibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationChapterVerseRangeFormat" value="{BibleBookName} {StartingBibleChapter}:{StartingBibleVerse}-{EndingBibleChapter}:{EndingBibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationSingleChapterManyVerseFormat" value="{BibleBookName} {StartingBibleVerse}-{EndingBibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationSingleChapterSingleVerseFormat" value="{BibleBookName} {BibleVerse}"/>
+<input type="hidden" id="documentNavigationMultiplePagesPositionFormat" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン p. {StartingPageNumber}-{EndingPageNumber}"/>
+<input type="hidden" id="documentNavigationSinglePagePositionFormat" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン p. {PageNumber}"/>
+<input type="hidden" id="documentDescription" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン"/>
+<input type="hidden" id="englishSym" value="lff"/>
+<input type="hidden" id="pubMediaServer" value="https://b.jw-cdn.org/apis/pub-media/GETPUBMEDIALINKS"/>
+<input type="hidden" id="audioPubSym" value="lff"/>
+<input type="hidden" id="chapNo" value="45"/>
+<input type="hidden" id="issue" value=""/>
+<input type="hidden" id="docId" value="1102021245"/>
+<input type="hidden" id="documentInBible" value=""/>
+<input type="hidden" id="hasRuby" value="true" />
+<input type="hidden" id="isRuby" value="false" />
+<input type="hidden" id="shareBaseUrl" value="https://www.jw.org/finder?wtlocale=J&docid=1102021245&srctype=wol&srcid=share"/>
+<input type="hidden" id="shareType" value="document"/>
+<input type="hidden" id="contentTitle" value="中立であるとはどういうこと？"/>
+<input type="hidden" id="parentTitle" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン"/>
+<input type="hidden" id="contentThumbnail" value="/ja/wol/d/r7/lp-j/1102021245/thumbnail"/>
+        </article>
+		</div></div>
+    </div>
+
+    <div id="regionFooter" class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		    <input id="returnToLibrary" type="hidden" value="{LibraryName}に戻る" />
+    <div id="userStatus" class="hidden" data-library-color="">
+        <div class="ellipsized currentLibrary">
+            <a class="chrome librarySelectionLink spriteLink" data-lang="J"
+               href="/ja/wol/li/r7/lp-j">
+                <span class="icon"></span>
+                <span class="label ellipsized showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">日本語出版物（1962-2023）</span>
+            </a>
+            <div id="cookieLibrary">
+
+            </div>
+        </div>
+        <div class="currentUser ellipsized">
+            <a id="userStatusLabel" class="statusLabel" href="#">
+                <span class="userName ellipsized"></span>
+            </a>
+            <div id="userControls" class="userControls hidden">
+                                <span id="headerLogout" class="hidden">
+        			<a class="statusItem userLogoutLink" href="#">ログアウト</a>                </span>
+            </div>
+        </div>
+        <div id="headerLogin" class="hidden">
+			<a class="statusButton userLoginLink" href="#">ログイン</a>        </div>
+    </div>
+		    <div id="contentFooterNavigation" role="navigation"
+         class=" showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+        <ul class="contentFooterIcons" role="menubar" class="chrome">
+            <li id="libraryTitle"
+                class="chrome"
+                role="menuitem"
+				lang="ja" data-lang="J" dir="ltr">
+                <a class="spriteLink"
+                   data-lang="J"
+                   href="/ja/wol/li/r7/lp-j">
+                    <span class="icon"></span>
+                    <span class="label">日本語</span>
+                </a>
+            </li>
+
+	        		        <li id="contentFooterShare" role="menuitem" aria-label="シェアする">
+			        <a id="shareButtonFooter" class="shareButtonFooterIcon spriteLink hidden" href="#">
+				        <span class="icon"></span>
+				        <span class="label">シェアする</span>
+			        </a>
+		        </li>
+	        
+            <li id="contentFooterPreferences" role="menuitem" aria-label="設定">
+                <a class="spriteLink" href="/ja/wol/pref/r7/lp-j?url=%2Fja%2Fwol%2Fd%2Fr7%2Flp-j%2F1102021245" rel="nofollow">
+                    <span class="icon"></span>
+                    <span class="label">設定</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+<div id="contentFooterLegal" class=" showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+    <ul class="contentFooterList" role="menubar">
+        <li class="showRuby ml-E ms-ROMAN dir-ltr" lang="en" data-lang="E" dir="ltr">
+			                <a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011511"
+                   target="_blank">Copyright</a>
+			            &copy;&nbsp;2022&nbsp;Watch Tower Bible and Tract Society of Pennsylvania        </li>
+		            <li>
+                <a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011511"
+                   target="_blank">利用規約</a>
+            </li>
+            <li>
+                <a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011512"
+                   target="_blank">プライバシーに関する方針</a>
+            </li>
+            <li>
+				<a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011512"
+				   id="privacySettingsButton"
+				   class="hidden"
+                   target="_blank">プライバシー設定</a>
+            </li>
+            <li id="jworg" role="menuitem" aria-label="jw.org">
+                <a id="jworgLogo" class="spriteLink" target="_blank" href="https://www.jw.org/finder?wtlocale=J&docid=1011200">
+                    <span class="icon"></span>
+                    <span class="label">JW.ORG</span>
+                </a>
+            </li>
+				            <li id="footerLogin" class="clickable hidden">
+				<a class="statusButton userLoginLink" href="#">ログイン</a>            </li>
+		                    </ul>
+    </div>
+    </div>
+
+    <div id="dialogContainer" class=" showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr"></div>
+    <div id="modalUnderlayContainer" class="underlay" tabindex="-1"></div>
+    <div id="underlayContainer" class="underlay" touch-action="none"></div>
+
+	<!-- share dialog -->
+	<input type="hidden" id="mobileNativeShare" value=""/>
+	<div class="jwac showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<div id="shareForm" class="hidden">
+			<div>
+				<div class="header chrome">
+					シェアする					<div class="closeBtn" aria-label="閉じる" onclick="app.modal.removeModals();">
+						<span class="icon"></span>
+					</div>
+				</div>
+				<form class="content">
+					<div class="shareFormWrapper">
+						<div>
+							<img class="sharePublicationImage" />
+						</div>
+						<div class="shareInfoContainer">
+							<div class="jwac showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+								<div class="shareContentParentTitle"></div>
+								<div class="shareContentTitle"></div>
+							</div>
+							<input id="shareLink" class="shareLink" type="text" readonly
+								   dir="ltr" />
+							<button type="button" class="grayButton small shareCopyButton"
+									aria-label="コピー"
+									onClick="app.utilities.copyToClipboard(document.getElementById('shareLink').value)">
+								<span class="icon"></span>
+							</button>
+							<div class="shareButtonContainer">
+								<button type="button" class="grayButton shareMailButton" onClick="app.share.sendEmail();">
+									<span class="icon"></span>
+									メールでシェアする								</button>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- end share dialog -->
+</div>
+
+<input type="hidden" id="newMeetingsPage" value="yes"/>
+
+
+<script src="https://b.jw-cdn.org/code/media-player/v1.6.0/js/media-player.min.js"></script>
+<script src="/assets/js/+1+0ca283f234d3853c38d3b7638a30f691656214ea.js"></script>
+<script src="/assets/js/+2+e486e3cb3baa7abba75a67d7440b6369a3f7c226.js"></script>
+
+</body>
+</html>

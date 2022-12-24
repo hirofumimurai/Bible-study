@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+    <title>「忠実で思慮深い奴隷」の役割 &mdash; ものみの塔 オンライン・ライブラリー</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	        <meta name="description" content="エホバの証人の公式ウェブサイトです。エホバの証人が様々な言語で発行している出版物を調べることができます。"/>
+        <meta name="keywords" content="エホバの証人, エホバ, 証人, ものみの塔, ライブラリー, オンライン, 出版物"/>
+	    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+	
+    <link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120"
+          href="/icon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152"
+          href="/icon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180"
+          href="/icon/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
+    <link rel="mask-icon" href="/icon/safari-pinned-tab.svg" color="#799FCC">
+    <link rel="shortcut icon" href="/icon/favicon.ico">
+    <meta name="msapplication-config" content="/icon/browserconfig.xml">
+    <meta name="apple-mobile-web-app-title" content="WOL">
+    <meta name="application-name" content="WOL">
+    <meta name="theme-color" content="#799fcc">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="apple-mobile-web-app-capable" content="no"/>
+	<link rel="stylesheet" type="text/css" href="https://b.jw-cdn.org/code/media-player/v1.6.0/skins/light.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+0+974f270baf9554651558d525c4fb9b2bbaba7049.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+1+eb8a03e8208c2b519502e9f295a5cdb86ce59e18.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+2+465c866887961124442af21bb7f783d185e6b372.css"/><link rel="stylesheet" type="text/css" href="/assets/css/+3+c6b72ff1988ccd26e5384d03fe3f4797a0efccb7.css"/>
+	
+	        <script>
+			var localizedNumbers = ["0","1"];
+			window.VIDEOJS_NO_DYNAMIC_STYLE = true;
+        </script>
+	
+	
+	<input id="insightApi" type="hidden" value="https://b.jw-cdn.org/apis/insight/events" />
+
+	<script src="/assets/js/+0+3b23965c032d57f4d3f2965f87b3740e2c650208.js"></script>
+
+	</head>
+<body class="showRuby cc-theme--light DynamicLayout">
+<style id="scalableui"></style>
+<script>
+    if (window.Cookies != null) {
+	    // Apply user preferred font size
+        // Doesn't apply to static pages, all of which don't scale text
+	    var fontScale = Cookies.get('fontScale');
+
+	    if (fontScale) {
+		    var scalableuiStyleContainer = document.getElementById('scalableui');
+		    var scalableuiStyleSheet = scalableuiStyleContainer.sheet;
+
+		    scalableuiStyleSheet.insertRule(
+			    '.scalableui{font-size:' + fontScale * 100 + '%;}',
+			    scalableuiStyleSheet.cssRules.length
+		    );
+	    }
+    }
+</script>
+<div id="wrapper" class="dropShadow50">
+	<input id="locale" type="hidden" value="ja" />
+<input id="tooltipContentErrorMessage" type="hidden" value="資料を開くにはここをクリックしてください。" />
+<input id="rsconf" type="hidden" value="r7" />
+<input id="lib" type="hidden" value="lp-j" />
+<input id="libLang" type="hidden" value="日本語" />
+<input id="libTitle" type="hidden" value="日本語出版物（1962-2023）" />
+<input id="libDir" type="hidden" value="ltr" />
+<input id="libLangSym" type="hidden" value="J" />
+<input id="libLangScript" type="hidden" value="JAPANESE" />
+<input id="libLangIsSignLanguage" type="hidden" value="" />
+<input id="libraryLocale" type="hidden" value="ja" />
+<input id="contentLocale" type="hidden" value="ja" />
+<input id="contentRsconf" type="hidden" value="r7" />
+<input id="contentLib" type="hidden" value="lp-j" />
+<input id="contentLibLang" type="hidden" value="日本語" />
+<input id="contentLibTitle" type="hidden" value="日本語出版物（1962-2023）" />
+<input id="rubyAvailable" type="hidden" value="true" />
+<input id="contentLibDir" type="hidden" value="ltr" />
+<input id="contentLibLangSym" type="hidden" value="J" />
+<input id="contentLibLangScript" type="hidden" value="JAPANESE" />
+<input id="contentLibLangIsSignLanguage" type="hidden" value="false" />
+<input id="siteCookieDomain" type="hidden" value="wol.jw.org" />
+<input id="audioMultiselect" type="hidden" value="" />
+<input id="site" type="hidden" value="unified" />
+
+    <div id="regionHeader" class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<div id="siteBanner">
+    <div class="title">
+        <a href="/ja/wol/h/r7/lp-j">
+            <span class="logo"><span class="icon"></span></span>
+            <div class="ellipsized label">
+                <span class="ellipsized titleBig">ものみの塔 オンライン・ライブラリー</span>
+                <div class="ellipsized titleLittle siteTitleLine1">ものみの塔</div>
+                <div class="ellipsized titleLittle siteTitleLine2">オンライン・ライブラリー</div>
+            </div>
+        </a>
+    </div>
+	        <div class="language">
+            <a class="chrome librarySelectionLink spriteLink"
+               data-lang="J" href="/ja/wol/li/r7/lp-j">
+                <span class="icon"></span>
+                <span class="label">日本語</span>
+            </a>
+        </div>
+	</div>
+		<div id="toolbarFrame">
+    <div id="standardSearch" class="searchControl">
+					<form class="searchForm" role="search" method="GET" action="/ja/wol/qt/r7/lp-j">
+	<div class="searchFieldContainer">
+	<input type="hidden" id="st" name="st" />
+	<input class="searchField"
+		       name="q"
+		       accept-charset="utf-8"
+		       type="text"
+		       title="検索演算子: * = 0文字以上; ? = 1文字; &quot;&nbsp;&quot; = 一連の語句; & = AND検索; | = OR検索; ! = NOT検索; () = グループ化"
+		       aria-label="検索する語句か聖句を入力"
+		       placeholder="語句を入力"
+		       autocomplete="off"
+		       autocapitalize="off"
+		       autocorrect="off"
+               autofocus="autofocus"
+		       spellcheck="false"
+		       maxlength="256"
+		       value=""/>
+        <span class="searchFieldCancel"><span class="icon"></span></span>
+			</div>
+	<div class="searchControlContainer">
+		<input type="hidden"
+		       name="p"
+		       value="par"/>
+        <input type="hidden"
+               name="r"
+               value="occ"/>
+        <input class="searchButton" type="submit" value="検索"/>
+	</div>
+	<div class="searchControlButtons">
+		<button class="searchIcon menuButton" type="button" aria-label="検索"><span class="icon"></span></button>
+		<button class="closeIcon menuButton" type="button" aria-label="キャンセル"><span class="icon"></span></button>
+	</div>
+		<div class="suggestions hidden"></div>
+</form>
+		    </div>
+    <div id="toolbarMenu">
+        <ul class="menu" role="menu">
+			                <li id="menuToolsPreferences" class="menuButton iconOnly menuRight" role="menuitem"
+                    aria-label="設定">
+                    <a href="/ja/wol/pref/r7/lp-j?url=%2Fja%2Fwol%2Fd%2Fr7%2Flp-j%2F1102021254"
+                       rel="nofollow"><span class="icon"></span>
+                    </a>
+                </li>
+	            					<li id="menuToolsShare" class="menuButton iconOnly menuRight"
+					    role="menuitem"
+					    aria-label="シェアする">
+						<a id="shareButton" class="shareButtonIcon hidden" href="#">
+							<span class="icon"></span>
+						</a>
+					</li>
+							        </ul>
+    </div>
+    <div id="menuHome" role="menuitem" class="showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+        <a href="/ja/wol/h/r7/lp-j" aria-label="ホーム">
+            <span class="icon"></span>
+        </a>
+    </div>
+    <div id="menuFrame">
+        <ul id="menuBar" class="menu" role="menubar">
+							                    <li id="menuBible" class="chrome menuButton showRuby ml-J ms-JAPANESE dir-ltr" role="menuitem"
+                        aria-label="聖書" lang="ja" data-lang="J" dir="ltr">
+                        <a href="/ja/wol/binav/r7/lp-j" role="menuitem"
+                            aria-label="聖書"><span class="icon"></span><span
+                                    class="label">聖書</span></a>
+                    </li>
+				
+                <li id="menuPublications" class="chrome menuButton showRuby ml-J ms-JAPANESE dir-ltr" role="menuitem"
+                    aria-label="出版物" lang="ja" data-lang="J" dir="ltr">
+                    <a href="/ja/wol/lv/r7/lp-j/0" role="menuitem" 
+                        aria-label="出版物"><span class="icon"></span>
+                            <span class="label">出版物</span></a>
+                </li>
+
+				                    <li id="menuToday" class="chrome menuButton showRuby ml-J ms-JAPANESE dir-ltr" role="menuitem"
+                        aria-label="集会" lang="ja" data-lang="J" dir="ltr">
+                        <a class="todayNav" href="/ja/wol/meetings/r7/lp-j" role="menuitem"
+                            aria-label="集会"><span class="icon"></span><span
+                                    class="label">集会</span></a>
+                    </li>
+								                    <li id="menuSynchronizeControls" class="hidden">
+                        <ul>
+                            <li id="menuSynchronize" class="chrome menuButton tbSync hidden" role="menuitem"
+                                aria-label="シンクロ">
+                                <a id="linkSynchronize" href="#" rel="nofollow">
+                                    <span class="icon"></span> <span class="label"></span> </a>
+                            </li>
+                            <li id="menuSynchronizeSwitch" class="chrome menuButton tbSync" role="menuitem">
+                                <a id="linkSynchronizeSwitch" href="#" rel="nofollow">
+                                    <span class="icon"></span> </a>
+                            </li>
+                        </ul>
+                    </li>
+				                <li id="menuSearchHitNext"
+                    class="chrome menuButton iconOnly menuRight hidden showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+                    <a href="#"><span class="icon"></span></a></li>
+			        </ul>
+    </div>
+</div>
+		<div id="publicationNavigation"
+     class="chrome">
+	<div class="secondaryNavToggle"><span class="icon"></span></div>
+
+	<div class="pubNavTitle">
+        <div class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<ul>
+            <li class="resultsNavigationSelected documentLocation navPublications"><a href="/ja/wol/publication/r7/lp-j/lff/68" class="spriteLink ellipsized"><span class="icon"></span>暮 レッスン54</a></li>
+			<li class="resultDocumentPubTitle ellipsized">
+				「忠実で思慮深い奴隷」の役割			</li>
+		</ul>
+        </div>
+	</div>
+
+			<div class="chrome forwardBackNavControls resultNavControls">
+			<ul>
+				<li class="resultNavLeft"><a class="resultsNavDocumentLink" href="/ja/wol/d/r7/lp-j/1102021253"><span class="icon"></span></a></li><li class="resultNavRight"><a class="resultsNavDocumentLink" href="/ja/wol/d/r7/lp-j/1102021255"><span class="icon"></span></a></li>			</ul>
+		</div>
+	
+	<div class="navPosition hidden showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<div class="scrollPositionDisplay"></div>
+	</div>
+</div>
+
+			            <div id="playerwrapper" class="hidden headerPosition"></div>
+	        </div>
+
+    <div id="regionMain" class="unified navLeft showRuby ml-J ms-JAPANESE dir-ltr hasSecondaryNav showSecondaryNav" lang="ja" data-lang="J" dir="ltr" >
+	                <div id="videoWrapperContainer" lang="ja" data-lang="J" dir="ltr">
+                <div id="videoWrapper"
+                     class="hidden headerPosition constrainedHeight hasSecondaryNav showSecondaryNav showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+                    <div class="topShadow"></div>
+                    <div class="videoNoticeContainer">
+                        <p class="noticeText noMarkerNotice">視聴できるビデオはありません。</p>
+                        <p class="noticeText videoErrorNotice">申し訳ありません，ビデオをロード中にエラーが発生しました。</p>
+                    </div>
+                    <div id="playerShared" class="uninitialized"></div>
+                </div>
+            </div>
+	                <div id="secondaryNavContent"
+         class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+        <div id="secondaryNav" role="navigation">
+			                <nav>
+                    <div id="resultNavigation"><div class="resultNavTitle">
+        <ul>
+            <li  class="resultsNavigationSelected  "><span><span class="navContent">「忠実で思慮深い奴隷」の役割</span></span></li><li  class="resultDocumentPubTitle  "><span><span class="navContent">いつまでも幸せに暮らせます 楽しく学べる聖書レッスン</span></span></li>        </ul>
+    </div></div>
+                </nav>
+						                <div id="documentNavigation" class="chrome">
+					                        <ul class="navigationTabs">
+                            <li class="active tabItem" data-related-content="subheadings">
+                                <div class="chrome showRuby ml-J ms-JAPANESE dir-ltr">
+									副見出し                                </div>
+                            </li>
+                            <li class="tabItem" data-related-content="similarMaterial">
+                                <div class="chrome showRuby ml-J ms-JAPANESE dir-ltr">
+									関連する記事                                </div>
+                            </li>
+                        </ul>
+					                    <div class="navigationContents">
+						                            <div id="subheadings" class="active tabContent" role="navigation">
+                                <nav>
+									            <ul class="documentNavigation noTooltips" role="navigation">
+                            <li class="subheading"><a href="/ja/wol/d/r7/lp-j/1102021254#p8">もっと調べよう</a></li>
+                            <li class="subheading"><a href="/ja/wol/d/r7/lp-j/1102021254#p37">まとめ</a></li>
+                            <li class="subheading"><a href="/ja/wol/d/r7/lp-j/1102021254#p47">見てみよう</a></li>
+                    </ul>
+                                    </nav>
+                            </div>
+                            <div id="similarMaterial" class="tabContent">
+								    <ul class="results linkCard">
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/2017283" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <img     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-w17
+            cat-w
+    " 
+        data-pub-symbol="w17"
+ src="/wol/publication/r7/lp-j/w17/2017/2/thumbnail"/>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    今日，神の民を導いているのはだれですか
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    エホバの王国を告げ知らせるものみの塔（研究用）2017
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/1990204" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <span     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-w90
+            cat-w
+    " 
+        data-pub-symbol="w90"
+ ></span>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    今日の統治体と協力する
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    エホバの王国を告げ知らせるものみの塔 1990
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		            <li class="simDoc">
+				
+
+
+
+            <a href="/ja/wol/dsim/r7/lp-j/1102012161" class="jwac showRuby publication html5 jwac showRuby ml-J ms-JAPANESE dir-ltr     chrome
+    cardContainer
+    noTooltips
+ cardLine1Prominent lnk"
+               data-nav-scope-data="[]">
+            <div class="cardThumbnail ">
+                    <img     class="
+    cardThumbnailImage
+        thumbnail
+            publication
+        icon-default
+        publication
+        pub-jl
+            cat-brch
+    " 
+        data-pub-symbol="jl"
+ src="/wol/publication/r7/lp-j/jl/thumbnail"/>
+            </div>
+    
+            <div class="cardTitleBlock">
+                <div class="    cardLine1
+    ellipsized
+        cardHalfHeight
+ cardLine1Prominent"><span class="sectionIcon"></span>
+                    統治体は今日，どのように機能していますか
+                </div>
+                <div class="        cardLine2
+        ellipsized
+ cardLine1Prominent">
+                    今の時代にだれがエホバのご意志を行なっていますか
+                </div>
+            </div>
+    
+            <div class="cardTitleDetail"></div>
+    
+            <div class="cardChevron">
+                <div class="icon"></div>
+            </div>
+    
+            </a>
+    
+            </li>
+		    </ul>
+
+	                            </div>
+						                    </div>
+                </div>
+			        </div>
+    </div>
+
+<div id="documentCitationInformation">
+    <div>いつまでも幸せに暮らせます 楽しく学べる聖書レッスン</div>
+    <div><strong>暮 レッスン54</strong></div>
+</div>
+
+<div id="content" class="content">
+	    <div class="articlePositioner" lang="ja" data-lang="J" dir="ltr">
+            <div id="banner" class="documentBanner showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+			        </div>
+        <article id="article" class="article document html5 pub- docId-1102021254 pub-lff pub- docClass-13 jwac showRuby ml-J ms-JAPANESE dir-ltr includeSecondaryNav" lang="ja" data-lang="J" dir="ltr"             role="article">
+			
+<div class="scalableui">
+	<header>
+<div id="f1" class="north_center">
+<figure>
+<img src="/ja/wol/mp/r7/lp-j/lff/2021/1879" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1878" alt="レッスン54。エホバの証人の統治体が会議室で話し合っている。" width="1200" height="303" class="north_center" />
+</figure>
+</div>
+<p class="contextTtl" id="p1" data-pid="1"><span id="page225" class="pageNum" aria-hidden="true" data-no="225" data-before-text="225"></span><strong>レッスン54</strong></p>
+<h1 id="p2" data-pid="2"><strong>「忠実で思慮深い奴隷」の役割</strong></h1>
+</header>	<div class="clearfix alternatePresentation clickable noTooltips
+		">
+		<div class="thumbnail">
+			<img src="/ja/wol/mp/r7/lp-j/lff/2021/1872" class="lightbox"
+				 data-alt-src="/ja/wol/mp/r7/lp-j/lff/2021/1875"
+				 data-alt-type="svg"/>
+		</div>
+		<div class="title">印刷版</div>
+	</div>
+	<div class="clearfix alternatePresentation clickable noTooltips
+		hidden">
+		<div class="thumbnail">
+			<img src="/ja/wol/mp/r7/lp-j/lff/2021/1873" class="lightbox"
+				 data-alt-src="/ja/wol/mp/r7/lp-j/lff/2021/1876"
+				 data-alt-type="svg"/>
+		</div>
+		<div class="title">印刷版</div>
+	</div>
+	<div class="clearfix alternatePresentation clickable noTooltips
+		hidden">
+		<div class="thumbnail">
+			<img src="/ja/wol/mp/r7/lp-j/lff/2021/1874" class="lightbox"
+				 data-alt-src="/ja/wol/mp/r7/lp-j/lff/2021/1877"
+				 data-alt-type="svg"/>
+		</div>
+		<div class="title">印刷版</div>
+	</div>
+
+<div class="bodyTxt">
+<div id="tt4">
+<p id="p3" data-pid="3">クリスチャン会衆の頭つまりリーダーはイエスです。（<a href="/ja/wol/bc/r7/lp-j/1102021254/0/0" data-bid="1-1" class="b">エフェソス 5:23</a>）今イエスは天にいて，「忠実で思慮深い奴隷」を使って地上の弟子たちを指導しています。（<a href="/ja/wol/bc/r7/lp-j/1102021254/1/0" data-bid="2-1" class="b">マタイ 24:45</a>を読む。）イエスに任命された「奴隷」は，ある程度の権限を持っていますが，奴隷としてキリストに従い，天に行くキリストの兄弟たちに仕えます。その奴隷は誰でしょうか。私たちのためにどんなことをしてくれるのでしょうか。</p>
+<h3 class="du-color--purple-600 du-fontSize--base du-margin-top--8" id="p4" data-pid="4"><strong>1.</strong> <strong>「忠実で思慮深い奴隷」って誰のこと？</strong></h3>
+<p id="p5" data-pid="5">エホバは昔から，特定の人や少人数の一団を使って，自分を崇拝する人たちを導いてきました。（<a href="/ja/wol/bc/r7/lp-j/1102021254/2/0" data-bid="3-1" class="b">マラキ 2:7。</a><a href="/ja/wol/bc/r7/lp-j/1102021254/2/1" data-bid="3-2" class="b">ヘブライ 1:1</a>）イエスの死後は，エルサレムにいる使徒や長老たちがクリスチャンの活動の先頭に立ちました。（<a href="/ja/wol/bc/r7/lp-j/1102021254/3/0" data-bid="4-1" class="b">使徒 15:2</a>）その型に倣って，現在はエホバの証人の統治体と呼ばれる少人数の長老たちの一団が，聖書に基づく本や雑誌などを準備し，伝道活動の先頭に立っています。その一団が，<strong>イエスが「任命した忠実で思慮深い奴隷」</strong>です。（<a href="/ja/wol/bc/r7/lp-j/1102021254/4/0" data-bid="5-1" class="b">マタイ 24:45</a>）統治体のメンバーは全員，天に行くよう聖なる力によって選ばれたクリスチャンで，地上での生涯が終わると天の政府でキリストと一緒に治めます。</p>
+<h3 class="du-color--purple-600 du-fontSize--base du-margin-top--8" id="p6" data-pid="6"><strong>2. 忠実な奴隷はどんな食物を準備してくれる？</strong></h3>
+<p id="p7" data-pid="7">イエスは，忠実な奴隷が<strong>仲間のクリスチャンに「適切な時に食物を与える」</strong>と言いました。（<a href="/ja/wol/bc/r7/lp-j/1102021254/5/0" data-bid="6-1" class="b">マタイ 24:45</a>）文字通りの食物を食べると，体力がついて健康でいられます。同じように，信仰を強める食物，つまり聖書からの教えで自分を養うと，エホバに従い続けてイエスから与えられた仕事を行うのに必要な力が湧いてきます。（<a href="/ja/wol/bc/r7/lp-j/1102021254/6/0" data-bid="7-1" class="b">テモテ第一 4:6</a>）信仰を強める食物は，集会や大会で，また聖書に基づく本や雑誌やビデオなどの形で与えられます。そうした教えによって，私たちは神が望んでいることを知り，神との友情を深めることができます。</p>
+</div>
+<div id="tt7">
+<h2 class="du-color--coolGray-400 du-fontSize--basePlus1 du-letterSpacing--8 du-constrainStylesToTextWidth du-borderStyle-top--solid du-borderColor-top--coolGray-400 du-borderWidth-top--4 du-margin-top--12 du-padding-top--4" id="p8" data-pid="8"><span id="page226" class="pageNum" aria-hidden="true" data-no="226" data-before-text="226"></span><strong>もっと調べよう</strong></h2>
+<div id="tt9" class="du-fontSize--basePlus1">
+<p id="p9" data-pid="9">「忠実で思慮深い奴隷」である統治体は，私たちのためにどんなことをしてくれるのでしょうか。</p>
+</div>
+<div id="f2" class="dc-bleedToArticleEdge du-margin-top--8">
+<figure>
+<img src="/ja/wol/mp/r7/lp-j/lff/2021/1881" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1880" alt="世界各地のエホバの証人が，統治体からの指示に従っている。1. 家族がJW Broadcastingを見ている。2. エホバの証人の自発奉仕者たちがトラックに救援物資を積んでいる。3. 2人のエホバの証人が伝道用カートの横に立っている。4. 長老が集会で手紙を読んでいる。" width="1200" height="584" />
+<figcaption class="figcaption dc-paddingToContentEdge">
+<p id="p57" data-pid="57">統治体は世界中のエホバの証人に，信仰を強める食物，適切な指示，必要な助けを与えている。</p>
+</figcaption>
+</figure>
+</div>
+<h3 class="du-color--purple-600 du-margin-top--8" id="p10" data-pid="10"><strong>3.</strong> <strong>エホバに仕えるには組織が必要</strong></h3>
+<p id="p11" data-pid="11">統治体はイエスの指導の下，エホバの証人の活動を組織しています。1世紀のクリスチャンたちも同じように組織されていました。<a href="https://www.jw.org/finder?lank=pub-lffv_542_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=542"><strong>動画を見てください</strong></a><strong>。</strong></p>
+<div id="tt12" class="dc-columns du-bgColor--teal-50 du-margin-inlineEnd-desktopOnly--oneThird du-padding--4">
+<div id="f3" class="dc-column-width--oneThird du-margin-inlineEnd--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-lffv_542_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=542" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1883" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1882" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt13" class="dc-column-width--twoThirds du-fontSize--baseMinus1 du-margin-children-vertical--0">
+<p id="p12" data-pid="12"><a href="https://www.jw.org/finder?lank=pub-lffv_542_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=542"><strong>動画: 「私たちには組織が必要」（9:23）</strong></a></p>
+</div>
+</div>
+<p id="p13" data-pid="13"><a href="/ja/wol/bc/r7/lp-j/1102021254/7/0" data-bid="8-1" class="b"><strong>コリント第一 14章33，</strong></a><a href="/ja/wol/bc/r7/lp-j/1102021254/7/1" data-bid="8-2" class="b"><strong>40節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p14" data-pid="14">  エホバは自分の証人たちがよく組織されることを望んでいると，どうして分かりますか。</p>
+</li>
+</ul>
+<h3 class="du-color--purple-600 du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--12 du-padding-top--8" id="p15" data-pid="15"><strong>4.</strong> <strong>忠実な奴隷は伝道活動の先頭に立っている</strong></h3>
+<p id="p16" data-pid="16">伝道は，1世紀のクリスチャンが行った最も重要な活動でした。<a href="/ja/wol/bc/r7/lp-j/1102021254/8/0" data-bid="9-1" class="b"><strong>使徒 8章14，</strong></a><a href="/ja/wol/bc/r7/lp-j/1102021254/8/1" data-bid="9-2" class="b"><strong>25節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p17" data-pid="17">  1世紀のクリスチャンの中で伝道活動に関する指示を与えていたのは誰ですか。</p>
+</li>
+<li><p id="p18" data-pid="18">  ペテロとヨハネは，仲間の使徒たちから指示を与えられた時，どうしましたか。</p>
+</li>
+</ul>
+<p id="p19" data-pid="19">伝道は，統治体が組織している最も重要な活動です。<a href="https://www.jw.org/finder?lank=pub-lffv_543_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=543"><strong>動画を見てください</strong></a><strong>。</strong></p>
+<div id="tt22" class="dc-columns du-bgColor--teal-50 du-margin-inlineEnd-desktopOnly--oneThird du-padding--4">
+<div id="f4" class="dc-column-width--oneThird du-margin-inlineEnd--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-lffv_543_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=543" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1886" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1885" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt23" class="dc-column-width--twoThirds du-fontSize--baseMinus1 du-margin-children-vertical--0">
+<p id="p20" data-pid="20"><a href="https://www.jw.org/finder?lank=pub-lffv_543_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=543"><strong>動画: 「伝道に注意を集中している」（1:37）</strong></a></p>
+</div>
+</div>
+<p id="p21" data-pid="21"><span id="page227" class="pageNum" aria-hidden="true" data-no="227" data-before-text="227"></span>イエスは伝道の大切さを強調しました。<a href="/ja/wol/bc/r7/lp-j/1102021254/9/0" data-bid="10-1" class="b"><strong>マルコ 13章10節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p22" data-pid="22">  伝道活動が統治体にとってとても重要なのはどうしてですか。</p>
+</li>
+<li><p id="p23" data-pid="23">  この世界的な活動を組織するために「忠実で思慮深い奴隷」が必要なのはどうしてですか。</p>
+</li>
+</ul>
+<h3 class="du-color--purple-600 du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--12 du-padding-top--8" id="p24" data-pid="24"><strong>5.</strong> <strong>忠実な奴隷は指示を与えてくれる</strong></h3>
+<p id="p25" data-pid="25">統治体は世界中のクリスチャンに指示を与えています。どんな指示を与えるかを，どうやって決めるのでしょうか。1世紀のクリスチャンの統治体がどのようにしていたか見てみましょう。<a href="/ja/wol/bc/r7/lp-j/1102021254/10/0" data-bid="11-1" class="b"><strong>使徒 15章1，2節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p26" data-pid="26">  どんな問題のために1世紀のクリスチャンの間で対立が生じましたか。</p>
+</li>
+<li><p id="p27" data-pid="27">  問題を解決するために，パウロとバルナバと何人かは誰のもとに行きましたか。</p>
+</li>
+</ul>
+<p id="p28" data-pid="28"><a href="/ja/wol/bc/r7/lp-j/1102021254/11/0" data-bid="12-1" class="b"><strong>使徒 15章12-18，</strong></a><a href="/ja/wol/bc/r7/lp-j/1102021254/11/1" data-bid="12-2" class="b"><strong>23-29節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p29" data-pid="29">  1世紀の統治体は，どうするべきかを決める前に，どんなことをして神の導きを求めましたか。（<a href="/ja/wol/bc/r7/lp-j/1102021254/12/0" data-bid="13-1" class="b">12，</a><a href="/ja/wol/bc/r7/lp-j/1102021254/12/1" data-bid="13-2" class="b">15，</a><a href="/ja/wol/bc/r7/lp-j/1102021254/12/2" data-bid="13-3" class="b">28節</a>）</p>
+</li>
+</ul>
+<p id="p30" data-pid="30"><a href="/ja/wol/bc/r7/lp-j/1102021254/13/0" data-bid="14-1" class="b"><strong>使徒 15章30，31節</strong></a><strong>と</strong><a href="/ja/wol/bc/r7/lp-j/1102021254/14/0" data-bid="15-1" class="b"><strong>16章4，5節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p31" data-pid="31">  1世紀のクリスチャンたちは，統治体から与えられた指示にどう反応しましたか。</p>
+</li>
+<li><p id="p32" data-pid="32">  その結果，エホバからどのように祝福されましたか。</p>
+</li>
+</ul>
+<p id="p33" data-pid="33"><a href="/ja/wol/bc/r7/lp-j/1102021254/15/0" data-bid="16-1" class="b"><strong>テモテ第二 3章16節</strong></a><strong>と</strong><a href="/ja/wol/bc/r7/lp-j/1102021254/16/0" data-bid="17-1" class="b"><strong>ヤコブ 1章5節</strong></a><strong>を読んで，</strong>次のことを考えましょう。</p>
+<ul><li><p id="p34" data-pid="34">  現在の統治体も，何かを決める時にどんなことをして導きを求めますか。</p>
+</li>
+</ul>
+<div id="tt39" class="dc-bleedToArticleEdge dc-paddingToContentEdge du-bgColor--gray-50 du-margin-top--12 du-padding-vertical--4">
+<p id="p35" data-pid="35"><strong>こう言う人もいる:</strong> 「統治体に従うということは，ただの人間に従っているんじゃないのか」。</p>
+<ul><li><p id="p36" data-pid="36">  イエスが統治体を指導していることを確信できるのはどうしてですか。</p>
+</li>
+</ul>
+</div>
+</div>
+<div id="tt42">
+<h2 class="du-color--purple-600 du-fontSize--basePlus1 du-margin-top--12" id="p37" data-pid="37"><span id="page228" class="pageNum" aria-hidden="true" data-no="228" data-before-text="228"></span><strong>まとめ</strong></h2>
+<p id="p38" data-pid="38">キリストに任命された「忠実で思慮深い奴隷」は，エホバの証人の統治体。世界中のクリスチャンに，信仰を強める食物や指示を与えている。</p>
+<h3 class="du-color--coolGray-500 du-fontSize--basePlus1 du-margin-top--8" id="p39" data-pid="39"><strong>復習</strong></h3>
+<ul><li><p id="p40" data-pid="40">  「忠実で思慮深い奴隷」を任命したのは誰ですか。</p>
+</li>
+<li><p id="p41" data-pid="41">  統治体は私たちのためにどんなことをしてくれていますか。</p>
+</li>
+<li><p id="p42" data-pid="42">  あなたは統治体が「忠実で思慮深い奴隷」だと確信していますか。</p>
+</li>
+</ul>
+<div class="gen-field du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--12 du-padding--4 du-padding-desktopOnly--8" id="p43" data-pid="43">
+<label for="tt51" id="tt50">レッスンが終わった日: </label>
+<input type="text" id="tt51" name="text-1"/>
+</div>
+<div id="tt53" class="du-bgColor--warmGray-50 du-padding--4 du-padding-desktopOnly--8">
+<fieldset>
+<legend id="p44" data-pid="44" class="du-color--coolGray-500 du-fontSize--basePlus2"><strong>次のステップ</strong></legend>
+<div class="gen-field" id="p45" data-pid="45">
+<input type="checkbox" id="tt57" class="du-borderStyle--none" name="goal-checkbox-1"/>
+<label for="tt57" id="tt59"><a href="/ja/wol/bc/r7/lp-j/1102021254/17/0" data-bid="18-1" class="b">テサロニケ第二 3章1節</a>の言葉に沿って，統治体のために定期的に祈り，エホバの祝福を願い求める。</label>
+</div>
+<div class="gen-field" id="p46" data-pid="46">
+<input type="checkbox" id="tt61" class="du-borderStyle--none" name="goal-checkbox-2"/>
+<label for="tt61" id="tt63">ほかにできること: </label>
+<div class="gen-field">
+<label for="tt66" id="tt64" class="dc-screenReaderText">別の目標</label>
+<textarea id="tt66" class="du-borderStyle--none" name="textarea-1"></textarea>
+</div>
+</div>
+</fieldset>
+</div>
+<div id="tt68" class="du-bgColor--gray-50 du-margin-top--12 du-padding--4 du-padding-desktopOnly--8">
+<h3 class="du-color--coolGray-500 du-fontSize--basePlus2 du-letterSpacing--8 du-margin-top--0" id="p47" data-pid="47"><strong>見てみよう</strong></h3>
+<div id="tt70" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f5" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="/wol/rslink/r7/lp-j?lang=J&amp;docid=502015165&amp;pub=ijwfq"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1889" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1888" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt71" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p48" data-pid="48">統治体はどのように組織的に仕事を行っているでしょうか。</p>
+<p id="p49" data-pid="49"><a href="/ja/wol/pc/r7/lp-j/1102021254/0/0"><strong>「エホバの証人の統治体とは何ですか」</strong>（jw.orgの記事）</a></p>
+</div>
+</div>
+<div id="tt72" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f6" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-jwb_201711_2_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwb&amp;issue=201711&amp;track=2" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1891" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1890" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt73" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p50" data-pid="50">統治体は，私たちが聖書に基づく正確な情報を得られるようにしてくれています。</p>
+<p id="p51" data-pid="51"><a href="https://www.jw.org/finder?lank=pub-jwb_201711_2_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=jwb&amp;issue=201711&amp;track=2"><strong>「出版物を正確なものにする」</strong>（17:18）</a></p>
+</div>
+</div>
+<div id="tt75" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f7" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-lffv_544_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=544" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1894" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1893" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt76" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p52" data-pid="52">統治体のメンバーたちは，イエスから与えられている仕事についてどう思っているのでしょうか。</p>
+<p id="p53" data-pid="53"><a href="https://www.jw.org/finder?lank=pub-lffv_544_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=544"><strong>「大切な特権」</strong>（7:04）</a></p>
+</div>
+</div>
+<div id="tt78" class="dc-columns-desktopOnly du-borderStyle-top--solid du-borderColor--gray-100 du-borderWidth--1 du-margin-top--4 du-margin-bottom-mobileOnly--6 du-padding-top--4">
+<div id="f8" class="dc-column-width--oneQuarter du-margin-inlineEnd-desktopOnly--4 du-margin-bottom-mobileOnly--4">
+<figure>
+<a href="https://www.jw.org/finder?lank=pub-lffv_541_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=541" class="dc-iconOverlay--play"><img src="/ja/wol/mp/r7/lp-j/lff/2021/1897" data-img-small-src="/ja/wol/mp/r7/lp-j/lff/2021/1896" alt="" width="1200" height="675" class="suppressZoom" /></a>
+</figure>
+</div>
+<div id="tt79" class="dc-column-width--threeQuarters du-margin-children-vertical--0">
+<p id="p54" data-pid="54">エホバの証人の集会や大会について考えると，エホバが統治体を導いていることが分かります。</p>
+<p id="p55" data-pid="55"><a href="https://www.jw.org/finder?lank=pub-lffv_541_VIDEO&amp;wtlocale=J" data-video="webpubvid://?pub=lffv&amp;track=541"><strong>「エホバは自分を崇拝する人たちを教えている」</strong>（9:39）</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+	<!-- Root element of lightbox -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+	<div id="questionContainer">
+		<ul></ul>
+	</div>
+
+	<div id="galleryModalContainer" class="underlay full fadeOut">
+    <div id="galleryModal">
+        <div class="header">
+            <div class="loading hidden"><span class="icon"></span></div>
+            <div class="galleryHeaderButtons">
+                <div class="galleryPlayCaption">
+                    <div class="galleryBtn playPauseBtn hidden"><span class="icon"></span></div>
+                </div>
+                
+                <div class="galleryBtn galleryClose">
+                    <div class="closeBtn"><span class="icon"></span></div>
+                </div>
+            </div>
+        </div>
+        <div class="contents">
+			
+            <div class="gallery">
+                <div class="galleryWrapper">
+                    <div class="navWrapper">
+                        <div class="itemContainer"></div>
+                    </div>
+                    <div class="carouselContainer noTooltips">
+						                    </div>
+                </div>
+            </div>
+
+                    </div>
+    </div>
+</div>
+</div>
+
+<input type="hidden" id="bibleDocumentNavigationChapterManyVerseFormat" value="{BibleBookName} {BibleChapter}:{StartingBibleVerse}-{EndingBibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationChapterVerseFormat" value="{BibleBookName} {BibleChapter}:{BibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationChapterVerseRangeFormat" value="{BibleBookName} {StartingBibleChapter}:{StartingBibleVerse}-{EndingBibleChapter}:{EndingBibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationSingleChapterManyVerseFormat" value="{BibleBookName} {StartingBibleVerse}-{EndingBibleVerse}"/>
+<input type="hidden" id="bibleDocumentNavigationSingleChapterSingleVerseFormat" value="{BibleBookName} {BibleVerse}"/>
+<input type="hidden" id="documentNavigationMultiplePagesPositionFormat" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン p. {StartingPageNumber}-{EndingPageNumber}"/>
+<input type="hidden" id="documentNavigationSinglePagePositionFormat" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン p. {PageNumber}"/>
+<input type="hidden" id="documentDescription" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン"/>
+<input type="hidden" id="englishSym" value="lff"/>
+<input type="hidden" id="pubMediaServer" value="https://b.jw-cdn.org/apis/pub-media/GETPUBMEDIALINKS"/>
+<input type="hidden" id="audioPubSym" value="lff"/>
+<input type="hidden" id="chapNo" value="54"/>
+<input type="hidden" id="issue" value=""/>
+<input type="hidden" id="docId" value="1102021254"/>
+<input type="hidden" id="documentInBible" value=""/>
+<input type="hidden" id="hasRuby" value="true" />
+<input type="hidden" id="isRuby" value="false" />
+<input type="hidden" id="shareBaseUrl" value="https://www.jw.org/finder?wtlocale=J&docid=1102021254&srctype=wol&srcid=share"/>
+<input type="hidden" id="shareType" value="document"/>
+<input type="hidden" id="contentTitle" value="「忠実で思慮深い奴隷」の役割"/>
+<input type="hidden" id="parentTitle" value="いつまでも幸せに暮らせます 楽しく学べる聖書レッスン"/>
+<input type="hidden" id="contentThumbnail" value="/ja/wol/d/r7/lp-j/1102021254/thumbnail"/>
+        </article>
+		</div></div>
+    </div>
+
+    <div id="regionFooter" class="chrome showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		    <input id="returnToLibrary" type="hidden" value="{LibraryName}に戻る" />
+    <div id="userStatus" class="hidden" data-library-color="">
+        <div class="ellipsized currentLibrary">
+            <a class="chrome librarySelectionLink spriteLink" data-lang="J"
+               href="/ja/wol/li/r7/lp-j">
+                <span class="icon"></span>
+                <span class="label ellipsized showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">日本語出版物（1962-2023）</span>
+            </a>
+            <div id="cookieLibrary">
+
+            </div>
+        </div>
+        <div class="currentUser ellipsized">
+            <a id="userStatusLabel" class="statusLabel" href="#">
+                <span class="userName ellipsized"></span>
+            </a>
+            <div id="userControls" class="userControls hidden">
+                                <span id="headerLogout" class="hidden">
+        			<a class="statusItem userLogoutLink" href="#">ログアウト</a>                </span>
+            </div>
+        </div>
+        <div id="headerLogin" class="hidden">
+			<a class="statusButton userLoginLink" href="#">ログイン</a>        </div>
+    </div>
+		    <div id="contentFooterNavigation" role="navigation"
+         class=" showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+        <ul class="contentFooterIcons" role="menubar" class="chrome">
+            <li id="libraryTitle"
+                class="chrome"
+                role="menuitem"
+				lang="ja" data-lang="J" dir="ltr">
+                <a class="spriteLink"
+                   data-lang="J"
+                   href="/ja/wol/li/r7/lp-j">
+                    <span class="icon"></span>
+                    <span class="label">日本語</span>
+                </a>
+            </li>
+
+	        		        <li id="contentFooterShare" role="menuitem" aria-label="シェアする">
+			        <a id="shareButtonFooter" class="shareButtonFooterIcon spriteLink hidden" href="#">
+				        <span class="icon"></span>
+				        <span class="label">シェアする</span>
+			        </a>
+		        </li>
+	        
+            <li id="contentFooterPreferences" role="menuitem" aria-label="設定">
+                <a class="spriteLink" href="/ja/wol/pref/r7/lp-j?url=%2Fja%2Fwol%2Fd%2Fr7%2Flp-j%2F1102021254" rel="nofollow">
+                    <span class="icon"></span>
+                    <span class="label">設定</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+<div id="contentFooterLegal" class=" showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+    <ul class="contentFooterList" role="menubar">
+        <li class="showRuby ml-E ms-ROMAN dir-ltr" lang="en" data-lang="E" dir="ltr">
+			                <a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011511"
+                   target="_blank">Copyright</a>
+			            &copy;&nbsp;2022&nbsp;Watch Tower Bible and Tract Society of Pennsylvania        </li>
+		            <li>
+                <a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011511"
+                   target="_blank">利用規約</a>
+            </li>
+            <li>
+                <a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011512"
+                   target="_blank">プライバシーに関する方針</a>
+            </li>
+            <li>
+				<a href="https://www.jw.org/finder?prefer=content&wtlocale=J&docid=1011512"
+				   id="privacySettingsButton"
+				   class="hidden"
+                   target="_blank">プライバシー設定</a>
+            </li>
+            <li id="jworg" role="menuitem" aria-label="jw.org">
+                <a id="jworgLogo" class="spriteLink" target="_blank" href="https://www.jw.org/finder?wtlocale=J&docid=1011200">
+                    <span class="icon"></span>
+                    <span class="label">JW.ORG</span>
+                </a>
+            </li>
+				            <li id="footerLogin" class="clickable hidden">
+				<a class="statusButton userLoginLink" href="#">ログイン</a>            </li>
+		                    </ul>
+    </div>
+    </div>
+
+    <div id="dialogContainer" class=" showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr"></div>
+    <div id="modalUnderlayContainer" class="underlay" tabindex="-1"></div>
+    <div id="underlayContainer" class="underlay" touch-action="none"></div>
+
+	<!-- share dialog -->
+	<input type="hidden" id="mobileNativeShare" value=""/>
+	<div class="jwac showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+		<div id="shareForm" class="hidden">
+			<div>
+				<div class="header chrome">
+					シェアする					<div class="closeBtn" aria-label="閉じる" onclick="app.modal.removeModals();">
+						<span class="icon"></span>
+					</div>
+				</div>
+				<form class="content">
+					<div class="shareFormWrapper">
+						<div>
+							<img class="sharePublicationImage" />
+						</div>
+						<div class="shareInfoContainer">
+							<div class="jwac showRuby ml-J ms-JAPANESE dir-ltr" lang="ja" data-lang="J" dir="ltr">
+								<div class="shareContentParentTitle"></div>
+								<div class="shareContentTitle"></div>
+							</div>
+							<input id="shareLink" class="shareLink" type="text" readonly
+								   dir="ltr" />
+							<button type="button" class="grayButton small shareCopyButton"
+									aria-label="コピー"
+									onClick="app.utilities.copyToClipboard(document.getElementById('shareLink').value)">
+								<span class="icon"></span>
+							</button>
+							<div class="shareButtonContainer">
+								<button type="button" class="grayButton shareMailButton" onClick="app.share.sendEmail();">
+									<span class="icon"></span>
+									メールでシェアする								</button>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- end share dialog -->
+</div>
+
+<input type="hidden" id="newMeetingsPage" value="yes"/>
+
+
+<script src="https://b.jw-cdn.org/code/media-player/v1.6.0/js/media-player.min.js"></script>
+<script src="/assets/js/+1+0ca283f234d3853c38d3b7638a30f691656214ea.js"></script>
+<script src="/assets/js/+2+e486e3cb3baa7abba75a67d7440b6369a3f7c226.js"></script>
+
+</body>
+</html>
